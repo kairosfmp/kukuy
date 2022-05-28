@@ -194,3 +194,37 @@ https://livecdn.fptplay.net/hda2/foxsports_hls.smil/chunklist_b1200000.m3u8?toke
 https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/chunklist_b1200000.m3u8?token=
 ##http://203.159.95.172:8081/live/bein01/chunks.m3u8
 #EXTINF:-1 group-title="Mola",test1
+
+#EXTINF:-1  group-title="SKY",Sky Sports Action HD
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/533?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SKY",Sky Sports Arena HD
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/532?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SKY",Sky Sports F1
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/538?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SKY",Sky Sports Football
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/535?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SKY",Sky Sports Main Event
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/534?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SKY",Sky Sports Mix
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/537?checkedby:iptvcat.com
+#EXTINF:-1 group-title="SKY",Sky Sports News
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/530?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="SKY",Sky Sports Premier League
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/531?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="SKY",Sky Sports Premier League FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/14979?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="SKY",Sky Sports Premier League HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1312?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="SKY",Sky Sports Premiere League
+
+#EXTINF:-1 group-title="SKY",BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="SKY",BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="SKY",BT Sport 1 HD
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/541?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="SKY",BT Sport ESPN
+http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/540?checkedby:iptvcat.com
