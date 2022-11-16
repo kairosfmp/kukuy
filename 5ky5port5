@@ -2580,56 +2580,324 @@ http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/348212.m3u8
 #EXTINF:-1,[Serie C] Viterbese Castrense HD - GIRONE C
 http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/348276.m3u8
 
-#EXTINF:-1,Vendetta 4K
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360458.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="IPTV",CINEMAX HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTVLCOPT:http-user-agent="MNCNow/6.3.2/2.0 (Linux;Android 7.0) ExoPlayerLib/2.12.0
+https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-#EXTINF:-1,Vendetta
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360388.mp4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20102452_ico.png?ts=1655457090" group-title="IPTV",HBO
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#EXTINF:-1,Il peggior lavoro della mia vita
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360384.mp4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19956861_ico.png?ts=1655456496" group-title="IPTV",HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-#EXTINF:-1,La mia ombra è tua
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360353.mp4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20382405_ico.png?ts=1655456567" group-title="IPTV",HBO Signature
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1,La mia ombra è tua 4K
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360352.mp4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20172029_ico.png?ts=1655454924" group-title="IPTV",HITS Movies
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1,Jaula
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360358.mp4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20206261_ico.png?ts=1657696826" group-title="IPTV",Galaxy
+https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:-1,Honor Society
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360356.mp4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20103424_ico.png?ts=1657696895" group-title="IPTV",GALAXY PREMIUM
+https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1,Don't Worry Darling
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360357.mp4
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="IPTV",ACTION MOVIES
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20753209_ico.png?ts=1655159537" group-title="IPTV",STAR MOVIES
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Nope 4K (2022)
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360294.mp4
 
-#EXTINF:-1,Nope (2022)
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360289.mp4
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498270_ico.png?ts=1654800910" group-title="IPTV",TVRI SPORT
+http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1,Ticket to Paradise
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360288.mp4
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19762554_ico.png?ts=1654805591" group-title="IPTV",RTM SPORT
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-#EXTINF:-1,Hatching - La forma del male
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360287.mp4
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19512202_ico.png?ts=1654805380" group-title="IPTV",FIGHT SPORTS HD
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-#EXTINF:-1,Black Adam
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360286.mp4
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19539288_ico.png?ts=1654872495" group-title="IPTV",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1,Halloween Ends
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/360085.mp4
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20367000_ico.png?ts=1654805734" group-title="IPTV",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
 
-#EXTINF:-1,Memory
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/357913.mp4
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20274240_ico.png?ts=1654805804" group-title="IPTV",SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
 
-#EXTINF:-1,Watcher
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/357549.mp4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="IPTV",BEIN SPORTS 1 Indonesia 
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1,Crimes of the Future
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/356048.mp4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="IPTV",BEIN SPORTS 3 Indonesia
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1,Shark Bait
-http://pnxip.ddns.net:80/movie/WEB-IPERGEL/9t7JaSvuKQ/355215.mp4
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600262_ico.png?ts=1655148798" group-title="IPTV",BEIN SPORTS 1 English
+https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/e7fd8e568e00181445cc1c9f2d2c9cbe/master.m3u8?token=N0VHcUYvR3FKdndJZW9Cbk9zQ3Q5dz09OjpEGo2EWZFigM%2Fb82NL%2FyLm&token=VkNvRjhXZkp3VEZmb0JYTG56YS93UT09OjrAkO3HHqfatJgMRt%2FWleyh
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="IPTV",BEIN SPORTS 2 English
+https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/9798ba85424782fbb249aa3452c97b7d/master.m3u8?token=YjNVcE5WdW9WcGRSRmFKd1Q3bzFYQT09OjrCyidGrzYcRD2EYt4GCxQ1&token=VkNvRjhXZkp3VEZmb0JYTG56YS93UT09OjrAkO3HHqfatJgMRt%2FWleyh
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20614211_ico.png?ts=1655148843" group-title="IPTV",BEIN SPORTS 3 English
+https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/d37229cb4740a59fc33b8082830b4d7a/master.m3u8?token=N0VHcUYvR3FKdndJZW9Cbk9zQ3Q5dz09OjpEGo2EWZFigM%2Fb82NL%2FyLm&token=VkNvRjhXZkp3VEZmb0JYTG56YS93UT09OjrAkO3HHqfatJgMRt%2FWleyh
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392732_ico.png?ts=1654805856" group-title="IPTV",SONY TEN 1
+https://s1.123zcast.me:8106/hd/hls/kaLc1TUI1Y2ZZuuaMNHJCg/1658945136/ten1endia.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392768_ico.png?ts=1654805937" group-title="IPTV",SONY TEN 2
+https://s99.123zcast.me:8902/hd/hls/h-pz5ZoQYyy8wo2eYdStLA/1658945454/ten2endia.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000870_ico.png?ts=1655551008" group-title="IPTV",MNC Sports
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000879_ico.png?ts=1655551073" group-title="IPTV",MNC Sports 2
+https://liveanevia.mncnow.id/live/eds/Soccer-1/sa_dash_vmx/Soccer-1.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528780_ico.png?ts=1658211297" group-title="IPTV",UNIFI SPORTS 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528786_ico.png?ts=1658211461" group-title="IPTV",UNIFI SPORTS 2
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600629_ico.png?ts=1654805997" group-title="IPTV",NBA TV
+http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20067466_ico.png?ts=1655550955" group-title="IPTV",National Geographic
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21000848_ico.png?ts=1655550876" group-title="IPTV",National Geographic Wild
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1,UK| SKY SPORTS MAIN EVENT FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30496.m3u8
+#EXTINF:-1,UK| SKY SPORTS PL FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30493.m3u8
+#EXTINF:-1,UK| SKY SPORTS FOOTBALL FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30498.m3u8
+#EXTINF:-1,UK| SKY SPORTS NFL FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30501.m3u8
+#EXTINF:-1,UK| SKY SPORTS ARENA FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30500.m3u8
+#EXTINF:-1,UK| SKY SPORTS CRICKET FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30502.m3u8
+#EXTINF:-1,UK| SKY SPORTS F1 FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30499.m3u8
+#EXTINF:-1,UK| SKY SPORTS GOLF FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30497.m3u8
+#EXTINF:-1,UK| SKY SPORTS MIX FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30495.m3u8
+#EXTINF:-1,UK| SKY SPORTS NEWS FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30494.m3u8
+#EXTINF:-1,UK| SKY SPORTS RACING FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/77373.m3u8
+#EXTINF:-1,UK| SKY SPORTS ACTION FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/929003.m3u8
+
+#EXTINF:-1,UK| SKY SPORTS MAIN EVENT
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79476.m3u8
+#EXTINF:-1,UK| SKY SPORTS PREMIER LEAGUE FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79473.m3u8
+#EXTINF:-1,UK| SKY SPORTS NFL
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79482.m3u8
+#EXTINF:-1,UK| SKY SPORTS ARENA
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79481.m3u8
+#EXTINF:-1,UK| SKY SPORTS CRICKET
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79480.m3u8
+#EXTINF:-1,UK| SKY SPORTS F1
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79479.m3u8
+#EXTINF:-1,UK| SKY SPORTS FOOTBALL
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79478.m3u8
+#EXTINF:-1,UK| SKY SPORTS GOLF
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79477.m3u8
+#EXTINF:-1,UK| SKY SPORTS MIX
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79475.m3u8
+#EXTINF:-1,UK| SKY SPORTS NEWS
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79474.m3u8
+#EXTINF:-1,UK| SKY SPORTS RACING
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/79472.m3u8
+#EXTINF:-1,UK| BOX NATION FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1004546.m3u8
+#EXTINF:-1,UK| BOX NATION HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1004547.m3u8
+#EXTINF:-1,UK| BT SPORT ULTIMATE 4K
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1038792.m3u8
+#EXTINF:-1,UK| BT BOX OFFICE FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1019933.m3u8
+#EXTINF:-1,UK| BT SPORTS 1 FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30567.m3u8
+#EXTINF:-1,UK| BT SPORTS 2 FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30566.m3u8
+#EXTINF:-1,UK| BT SPORTS 3 FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30565.m3u8
+#EXTINF:-1,UK| BT SPORTS 4 FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1019935.m3u8
+#EXTINF:-1,UK| BT SPORTS 5 FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1004548.m3u8
+#EXTINF:-1,UK| BT SPORTS 5 HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1004549.m3u8
+#EXTINF:-1,UK| BT SPORTS 5
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1004550.m3u8
+#EXTINF:-1,UK| BT SPORTS 6
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1004551.m3u8
+#EXTINF:-1,UK| BT SPORTS 7
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1004552.m3u8
+#EXTINF:-1,UK| BT SPORTS 8
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1004553.m3u8
+#EXTINF:-1,UK| BT SPORTS 9
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1004554.m3u8
+#EXTINF:-1,UK| BT SPORTS 10
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1004555.m3u8
+#EXTINF:-1,UK| BT SPORTS ESPN FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30564.m3u8
+#EXTINF:-1,UK| BT SPORTS EXTRA 6 HD (RAW)
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014265.m3u8
+#EXTINF:-1,UK| BT SPORTS EXTRA 7 HD (RAW)
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014264.m3u8
+#EXTINF:-1,UK| BT SPORTS EXTRA 8 HD (RAW)
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014263.m3u8
+#EXTINF:-1,UK| BT SPORTS EXTRA 9 HD (RAW)
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014262.m3u8
+#EXTINF:-1,UK| BT SPORTS EXTRA 10 HD (RAW)
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014261.m3u8
+#EXTINF:-1,UK| EUROSPORT 1 FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30541.m3u8
+#EXTINF:-1,UK| EUROSPORT 2 FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30540.m3u8
+#EXTINF:-1,UK| PREMIER SPORTS FREE SPORTS HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014260.m3u8
+#EXTINF:-1,UK| PREMIER SPORT LALIGA TV FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/163611.m3u8
+#EXTINF:-1,UK| PREMIER SPORT 1 FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/163607.m3u8
+#EXTINF:-1,UK| PREMIER SPORTS 2 FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/45251.m3u8
+#EXTINF:-1,UK| RACING UK FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/30523.m3u8
+#EXTINF:-1,UK| BOXNATION
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/294450.m3u8
+#EXTINF:-1,UK| FREE SPORTS FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/546807.m3u8
+#EXTINF:-1,UK| WWE LIVE HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/164032.m3u8
+#EXTINF:-1,UK| PDC DARTS TV 2 (Event Only)
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014239.m3u8
+#EXTINF:-1,UK| PDC DARTS TV 1 (Event Only)
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014240.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 01
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014241.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 02
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014242.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 03
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014243.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 04
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014244.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 05
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014245.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 06
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014246.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 07
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014247.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 08
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014248.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 09
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014249.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 10
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014250.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 11
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014251.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 12
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014252.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 13
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014253.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 14
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014254.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 15
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014255.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 16
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014256.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 17
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014257.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 18
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014258.m3u8
+#EXTINF:-1,UK| SKY SPORTS RED BUTTON 19
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014259.m3u8
+#EXTINF:-1,UK| EDGE SPORT FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014266.m3u8
+#EXTINF:-1,UK| RMTV
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/164076.m3u8
+#EXTINF:-1,UK| UFC TV (Events2)
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1014267.m3u8
+#EXTINF:-1,UK| UFC HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/825538.m3u8
+#EXTINF:-1,UK| BT SPORTS 1 SD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1047260.m3u8
+#EXTINF:-1,UK| BT SPORTS 2 SD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1047261.m3u8
+#EXTINF:-1,UK| BT SPORTS 3 SD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1047262.m3u8
+#EXTINF:-1,UK| BT SPORTS 4 SD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/1047263.m3u8
+
+#EXTINF:-1,UK| BEIN SPORT 1 EN FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/483921.m3u8
+#EXTINF:-1,UK| BEIN SPORT 2 EN FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/483920.m3u8
+#EXTINF:-1,UK| BEIN SPORT 3 EN FHD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/483919.m3u8
+#EXTINF:-1,UK| BEIN SPORT 1 EN HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/49226.m3u8
+#EXTINF:-1,UK| BEIN SPORT 2 EN HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/49225.m3u8
+#EXTINF:-1,UK| BEIN SPORT 3 EN HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/49224.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 1 PREMIUM HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/238261.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 2 PREMIUM HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/238262.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 3 PREMIUM HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/238263.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 1 HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/238265.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 2 HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/238264.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 3 HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/238266.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 4 HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/238267.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 5 HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/238268.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 6 HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/238269.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 7 HD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/238270.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 1 EN SD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/735946.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 2 EN SD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/735945.m3u8
+#EXTINF:-1,UK| BEIN SPORTS 3 EN SD
+http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/735944.m3u8
