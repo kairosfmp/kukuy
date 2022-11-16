@@ -1,44 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Sky Cinema Uno HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/218.m3u8
-
-#EXTINF:-1,Sky Cinema Due HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/221.m3u8
-
-#EXTINF:-1,Sky Cinema Collection HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/204.m3u8
-
-#EXTINF:-1,Sky Cinema Family HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/208.m3u8
-
-#EXTINF:-1,Sky Cinema Action HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/199.m3u8
-
-#EXTINF:-1,Sky Cinema Suspense HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/207.m3u8
-
-#EXTINF:-1,Sky Cinema Romance HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/196.m3u8
-
-#EXTINF:-1,Sky Cinema Drama HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/210.m3u8
-
-#EXTINF:-1,Sky Cinema Comedy HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/213.m3u8
-
-#EXTINF:-1,Sky Serie HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/212634.m3u8
-
-#EXTINF:-1,Sky Investigation HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/212632.m3u8
-
-#EXTINF:-1,Sky Documentaries HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/239552.m3u8
-
-#EXTINF:-1,Sky Nature HD
-http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/239553.m3u8
-
 #EXTINF:-1,WarnerTV Italy HD
 http://pnxip.ddns.net:80/live/WEB-IPERGEL/9t7JaSvuKQ/360360.m3u8
 
