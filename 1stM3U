@@ -507,31 +507,24 @@ http://zz@tvn.x10.bz/TvN_ID/master-7.m3u8
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj2pQGdYepHRkkVqLCSgFGaoiTPfjtHdcSzMk0L2xHbcMVZtE9iYMhYHbg7x0nX3_M3EIaVRSoyt2JokU7rq463FGOG361VvrgfTrBqPL0-6nzveqkJSHTLKz1V9gwuhDx9WBpUWMw4hYkDigrsQ_W0y0-GVwOYLoG_6Z_r0Ak9_bZ-R43qONbeKQzN" group-title="Champions", CHAMPIONS 3
 http://zz@tvn.x10.bz/TvN_ID/master-8.m3u8
 
-EXTINF:-1 tvg-logo="https://postimg.cc/kRJL1y61" group-title="SEA GAMES ", I NEWS
+EXTINF:-1 tvg-logo="https://postimg.cc/kRJL1y61" group-title="NASIONAL", I NEWS
 https://on-load.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/" group-title="LIGA BRI", LIVE 1
-http://103.150.96.55/lived/lives/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/" group-title="LIGA BRI", LIVE 2
-http://194.233.65.189/sinartv/lives/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tCc6h4Xv/" group-title="LIGA BRI", LIVE 3
-https://etslive-2-vidio-com.akamaized.net/exp=1644498086~acl=/vp9/8016_stream.mpd!/vp9/8016/*~hmac=0393febcdc7a326a2f45e614882f80e960de6a3b2af5db6be49f0a3ed5568c4a/vp9/8016_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-65ZNp5PWBn4/YD4jzvbms-I/AAAAAAAAETc/I_SfRvRCcsYL_fTe5JdgV3KRJrzEKjhQACLcBGAsYHQ/s1600/Logo%2BBRImo.png" group-title="LIGA BRI",Soccer Channel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-65ZNp5PWBn4/YD4jzvbms-I/AAAAAAAAETc/I_SfRvRCcsYL_fTe5JdgV3KRJrzEKjhQACLcBGAsYHQ/s1600/Logo%2BBRImo.png" group-title="MNC SPORT",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="MOTO GP", SPOTV 1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="SPOTV", SPOTV 1
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="MOTO GP", SPOTV 2
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="SPOTV", SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
@@ -1186,52 +1179,6 @@ http://rr1.dens.tv/h/h28/01.m3u8
 http://rr1.dens.tv/h/h01/01.m3u8
 
 
-
-##########################FILMS##########################
-
-#EXTINF:-1 tvg-logo="" group-title="FILMS", UK SKY CINEMA ACTION
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53956
-#EXTINF:-1 tvg-logo="" group-title="FILMS", UK SKY CINEMA BLOCKBUSTERS
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53958
-#EXTINF:-1 tvg-logo="" group-title="FILMS", UK SKY CINEMA DRAMA
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53961
-#EXTINF:-1 tvg-logo="" group-title="FILMS", UK SKY CINEMA FAMILY
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53962
-#EXTINF:-1 tvg-logo="" group-title="FILMS", UK SKY CINEMA GREATS
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53963
-#EXTINF:-1 tvg-logo="" group-title="FILMS", UK SKY CINEMA HITS
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53964
-#EXTINF:-1 tvg-logo="" group-title="FILMS", UK SKY CINEMA PREMIERE
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53965
-#EXTINF:-1 tvg-logo="" group-title="FILMS", UK SKY CINEMA SCI-FI
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53966
-
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : TNT
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53581
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : STARZ EAST
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53563
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : STARZ ENCORE ACTION
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53564
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : STARZ ENCORE BLACK
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53565
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : STARZ ENCORE EAST
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53567
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : STARZ ENCORE FAMILY
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53568
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : STARZ ENCORE SUSPENSE
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53569
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : STARZ ENCORE WEST
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53570
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : STARZ KIDS &amp; FAMILY
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53572
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : CINEMAX EAST
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53465
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : HBO 2 EAST
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53512
-#EXTINF:-1 tvg-logo="" group-title="FILMS",US-720 : HBO EAST
-http://n2086.securepoint.io:25461/ZudaWKj4eP/dQbUQHUZxL/53513
-
-
 http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/48184?checkedby:iptvcat.com 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfR4MK29/Biznet-Home-Kids.jpg" group-title="Kids",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
@@ -1304,3 +1251,23 @@ http://iptv.tvmalaysia.cc:80/139664/139664/7198
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="Kids", BOOMERANG (USA)
 http://iptv.tvmalaysia.cc:80/139664/139664/7199
+
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 1 HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 2 HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/73
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 3 HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/74
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 4 HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/75
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 5 HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/76
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 6 HD
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/77
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", Bein Sports Premium 1
+https://m3u-editor.com/serve/c9e8f150-6a45-11ed-a7a1-e54c44f075ff/695131385
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", Bein Sports Premium 2
+https://m3u-editor.com/serve/c9e8f150-6a45-11ed-a7a1-e54c44f075ff/695131386
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", Bein Sports Premium 3
+https://m3u-editor.com/serve/c9e8f150-6a45-11ed-a7a1-e54c44f075ff/695131387
