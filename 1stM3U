@@ -2,7 +2,10 @@
 #EXTM3U x-url-tvg="https://macan.network/epgtv.xml"
 #EXTM3U x-url-tvg="https://bit.ly/epg-mnc"
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="NASIONAL", Indosiar HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="NASIONAL", Indosiar
+http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Beriga1.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&amp;coday=f846bc691110108f73cb55c2f4049864&amp;cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 https://winhometv.xyz/USEE/mpd.m3u8?channel=indosiar 
@@ -18,7 +21,10 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="NASIONAL", SCTV HD
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="NASIONAL", SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+http://nonton.wap.sh/id/009.m3u8
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&amp;coday=f846bc691110108f73cb55c2f4049864&amp;cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 https://winhometv.xyz/USEE/mpd.m3u8?channel=sctv
 
@@ -336,7 +342,14 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://skymedia.it/wp-content/uploads/2021/09/CI_LOGO_WHITE_NO_BG_CMYK-TM-1.png" group-title="Knowledge",Crime Investigation
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://
+
+
+
+
+
+
+media.it/wp-content/uploads/2021/09/CI_LOGO_WHITE_NO_BG_CMYK-TM-1.png" group-title="Knowledge",Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 
@@ -404,6 +417,31 @@ http://server.sibfungold.info:8080/gaicu84/NeDlHL0bF1NeDlHL0bF1/48184?checkedby:
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 group-title="Kids",Animax
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="Kids",Cbeebies BBC 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="Kids",CARTOON NETWORK HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="Kids",ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="Kids",Nick Jr Asia
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="Kids",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
  
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQNjM3d7/aniplus.png" group-title="Kids",Aniplus
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=aniplus&amp;bandwidth=default&amp;sync=0
@@ -696,91 +734,6 @@ http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/158069
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 https://on-load.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT",Bein Sports Premium 1 
-http://red.ipfox.org:8080/osama2022/osama2023/31529
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT",Bein Sports Premium 2 
-http://red.ipfox.org:8080/osama2022/osama2023/31528
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT",Bein Sports Premium 3 
-http://red.ipfox.org:8080/osama2022/osama2023/31527
-
-
-# SKY SPORT
-#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="DE: VIP SKY SPORT F1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/skySportF1.png" group-title="VIP SPORT",SKY SPORT F1 HD
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/397326
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: VIP SKY SPORT 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_1.png" group-title="VIP SPORT",SKY SPORT 1 HD
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378153
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: VIP SKY SPORT 2 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_2.png" group-title="VIP SPORT",SKY SPORT 2 HD
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378152
-#EXTINF:-1 tvg-id="skysport3.de" tvg-name="DE: VIP SKY SPORT 3 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_3.png" group-title="VIP SPORT",SKY SPORT 3 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378150
-#EXTINF:-1 tvg-id="skysport4.de" tvg-name="DE: VIP SKY SPORT 4 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_4.png" group-title="VIP SPORT",SKY SPORT 4 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378149
-#EXTINF:-1 tvg-id="skysport5.de" tvg-name="DE: VIP SKY SPORT 5 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_5.png" group-title="VIP SPORT",SKY SPORT 5 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378148
-#EXTINF:-1 tvg-id="skysport6.de" tvg-name="DE: VIP SKY SPORT 6 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_6.png" group-title="VIP SPORT",SKY SPORT 6 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378147
-#EXTINF:-1 tvg-id="skysport7.de" tvg-name="DE: VIP SKY SPORT 7 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_7.png" group-title="VIP SPORT",SKY SPORT 7 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378146
-#EXTINF:-1 tvg-id="skysport8.de" tvg-name="DE: VIP SKY SPORT 8 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_8.png" group-title="VIP SPORT",SKY SPORT 8 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378145
-#EXTINF:-1 tvg-id="skysport9.de" tvg-name="DE: VIP SKY SPORT 9 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_9.png" group-title="VIP SPORT",SKY SPORT 9 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378144
-#EXTINF:-1 tvg-id="skysport10.de" tvg-name="DE: VIP SKY SPORT 10 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_sport_hd_10.png" group-title="VIP SPORT",SKY SPORT 10 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378143
-#EXTINF:-1 tvg-id="skysport11.de" tvg-name="DE: VIP SKY SPORT 11 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/skySport11.png" group-title="VIP SPORT",SKY SPORT 11 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/395373
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_1.png" group-title="VIP SPORT",SKY SPORT BUNDESLIGA 1 HD
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378163
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 2 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_2.png" group-title="VIP SPORT",SKY SPORT BUNDESLIGA 2 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378162
-#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 3 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_3.png" group-title="VIP SPORT",SKY SPORT BUNDESLIGA 3 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378161
-#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 4 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_4.png" group-title="VIP SPORT",SKY SPORT BUNDESLIGA 4 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378160
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 5 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_5.png" group-title="VIP SPORT",SKY SPORT BUNDESLIGA 5 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378159
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 6 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_6.png" group-title="VIP SPORT",SKY SPORT BUNDESLIGA 6 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378158
-#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 7 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_7.png" group-title="VIP SPORT",SKY SPORT BUNDESLIGA 7 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378157
-#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 8 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_8.png" group-title="VIP SPORT",SKY SPORT BUNDESLIGA 8 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378156
-#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 9 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_9.png" group-title="VIP SPORT",SKY SPORT BUNDESLIGA 9 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378155
-#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="DE: VIP SKY SPORT BUNDESLIGA 10 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germany/sky_bundesliga_hd_10.png" group-title="VIP SPORT",SKY SPORT BUNDESLIGA 10 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378154
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: VIP SKY SPORT AUSTRIA 1 HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="VIP SPORT",SKY SPORT AUSTRIA 1 HD
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378141
-#EXTINF:-1 tvg-id="skysportaustria2.at" tvg-name="DE: VIP SKY SPORT AUSTRIA 2 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="VIP SPORT",SKY SPORT AUSTRIA 2 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378140
-#EXTINF:-1 tvg-id="skysportaustria3.at" tvg-name="DE: VIP SKY SPORT AUSTRIA 3 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="VIP SPORT",SKY SPORT AUSTRIA 3 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378139
-#EXTINF:-1 tvg-id="skysportaustria4.at" tvg-name="DE: VIP SKY SPORT AUSTRIA 4 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="VIP SPORT",SKY SPORT AUSTRIA 4 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/378138
-#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SKY SPORT AUSTRIA 5 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="VIP SPORT",SKY SPORT AUSTRIA 5 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/380722
-#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SKY SPORT AUSTRIA 6 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="VIP SPORT",SKY SPORT AUSTRIA 6 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/380721
-#EXTINF:-1 tvg-id="" tvg-name="DE: VIP SKY SPORT AUSTRIA 7 HD (Only Live Event)" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sky_sport_austria.png" group-title="VIP SPORT",SKY SPORT AUSTRIA 7 HD (Only Live Event)
-http://dcsport.xyz:8080/drgokanbesiktas/MWzR2DAZz1/380720
-
-
-#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channe.png" group-title="Liga BRI", LIVE 1
-https://m3u-editor.com/serve/97abdfd0-1635-11ed-b514-7122833d7766/611286668
-#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channe.png" group-title="Liga BRI", LIVE 2
-https://m3u-editor.com/serve/97abdfd0-1635-11ed-b514-7122833d7766/611286669
-#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channe.png" group-title="Liga BRI", LIVE 3
-https://m3u-editor.com/serve/97abdfd0-1635-11ed-b514-7122833d7766/611286670
-#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channe.png" group-title="Liga BRI", LIVE 4
-https://m3u-editor.com/serve/97abdfd0-1635-11ed-b514-7122833d7766/611286671
-
-#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channe.png" group-title="EPL", LIVE 1
-https://m3u-editor.com/serve/97abdfd0-1635-11ed-b514-7122833d7766/611458591
-#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channe.png" group-title="EPL", LIVE 2
-https://m3u-editor.com/serve/97abdfd0-1635-11ed-b514-7122833d7766/611458592
-#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channe.png" group-title="EPL", LIVE 3
-https://m3u-editor.com/serve/97abdfd0-1635-11ed-b514-7122833d7766/611458593
 
 
 #MAXSTREAM#
@@ -1253,21 +1206,52 @@ http://iptv.tvmalaysia.cc:80/139664/139664/7198
 http://iptv.tvmalaysia.cc:80/139664/139664/7199
 
 
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 1 HD
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT", beIN max 1 HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 2 HD
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT", beIN max 2 HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/73
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 3 HD
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT", beIN max 3 HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/74
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 4 HD
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT", beIN max 4 HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/75
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 5 HD
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT", beIN max 5 HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/76
-#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", beIN max 6 HD
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT", beIN max 6 HD
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/77
-#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", Bein Sports Premium 1
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT", Bein Sports Premium 1
 https://m3u-editor.com/serve/c9e8f150-6a45-11ed-a7a1-e54c44f075ff/695131385
-#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", Bein Sports Premium 2
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT", Bein Sports Premium 2
 https://m3u-editor.com/serve/c9e8f150-6a45-11ed-a7a1-e54c44f075ff/695131386
-#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", Bein Sports Premium 3
+#EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT", Bein Sports Premium 3
 https://m3u-editor.com/serve/c9e8f150-6a45-11ed-a7a1-e54c44f075ff/695131387
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="BeInSports1Indonesia.qa" tvg-name="beIN Sports 1" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/6PzxgcMFcsCwkTA7UceD8H1vhIw=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-1c51e3.jpg" group-title="BEINSPORT",beIN Sport 1 Indonesia
+https://on-load.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="BeInSports2Indonesia.qa" tvg-name="beIN Sports 2" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NtMRvcgk68Bc-HwOtHLIy7Gvs9A=/400x226/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-581092.jpg" group-title="BEINSPORT",beIN Sport 2 Indonesia
+https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT",Bein Sports Premium 1 
+http://red.ipfox.org:8080/osama2022/osama2023/31529
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT",Bein Sports Premium 2 
+http://red.ipfox.org:8080/osama2022/osama2023/31528
+#EXTINF:-1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEINSPORT",Bein Sports Premium 3 
+http://red.ipfox.org:8080/osama2022/osama2023/31527
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 1
+http://tvn.x10.bz/xchannel/master-6.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 2
+http://tvn.x10.bz/xchannel/master-7.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 3
+http://tvn.x10.bz/xchannel/master-8.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO", Champions TV 4
+http://tvn.x10.bz/xchannel/master-17.m3u8
