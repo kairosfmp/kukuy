@@ -61,108 +61,106 @@ https://m3u-editor.com/serve/c9e8f150-6a45-11ed-a7a1-e54c44f075ff/695131386
 #EXTINF: -1 tvg-logo="https://padelmagazine.fr/wp-content/uploads/2021/11/Bein-Sports-logo-2021.jpg.webp" group-title="BEIN PREMIUM", Bein Sports Premium 3
 https://m3u-editor.com/serve/c9e8f150-6a45-11ed-a7a1-e54c44f075ff/695131387
 
-#EXTINF:-1,BEIN SPORTS 2
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS 2
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/2
-#EXTINF:-1,BEIN SPORTS 1
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS 1
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/1
-#EXTINF:-1,BEIN SPORTS 3
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS 3
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/3
-#EXTINF:-1,BEIN SPORTS 4
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS 4
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/4
-#EXTINF:-1,BEIN SPORTS 5
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS 5
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/5
-#EXTINF:-1,BEIN SPORTS 6
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS 6
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/6
-#EXTINF:-1,BEIN SPORTS 7
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS 7
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/7
-#EXTINF:-1,BEIN XTRA
+#EXTINF:-1 group-title="Sports Mix", BEIN XTRA
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/40
-#EXTINF:-1,BEIN SPORTS PREMIER 1
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS PREMIER 1
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/8
-#EXTINF:-1,BEIN SPORTS PREMIER 2
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS PREMIER 2
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/9
-#EXTINF:-1,BEIN SPORTS PREMIER 3
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS PREMIER 3
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/10
-#EXTINF:-1,BEIN SPORT NEWS
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORT NEWS
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/449
-#EXTINF:-1,BEIN SPORTS EN 1
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS EN 1
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/53
-#EXTINF:-1,BEIN SPORTS EN 2
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS EN 2
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/64
-#EXTINF:-1,BEIN SPORTS ENGLISH 3
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS ENGLISH 3
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/218
-#EXTINF:-1,BEIN SPORTS EN 3
+#EXTINF:-1 group-title="Sports Mix", BEIN SPORTS EN 3
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/463
-#EXTINF:-1,USA NETWORK
+#EXTINF:-1 group-title="Sports Mix", USA NETWORK
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/384
-#EXTINF:-1,NBC SPORTS
+#EXTINF:-1 group-title="Sports Mix", NBC SPORTS
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/450
-#EXTINF:-1,NBC SPORTS 1
+#EXTINF:-1 group-title="Sports Mix",NBC SPORTS 1
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/209
-#EXTINF:-1,SUPERSPORT PREMIER LEAGUE
+#EXTINF:-1 group-title="Sports Mix",SUPERSPORT PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/306
-#EXTINF:-1,WILLOW CRICKET
-#EXTVLCOPT:http-user-agent=CHANNEL4_34
-http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/464
-#EXTINF:-1,PTV
+
+#EXTINF:-1 group-title="Sports Mix",PTV
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/465
-#EXTINF:-1,DUHOK SPORTS
+#EXTINF:-1 group-title="Sports Mix",DUHOK SPORTS
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/466
-#EXTINF:-1,SONY SPORTS  TEN 1
+#EXTINF:-1 group-title="Sports Mix",SONY SPORTS  TEN 1
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/467
-#EXTINF:-1,SONY TEN SPORTS 2
+#EXTINF:-1 group-title="Sports Mix",SONY TEN SPORTS 2
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/468
-#EXTINF:-1,FOX SPORTS 2 L
+#EXTINF:-1 group-title="Sports Mix",FOX SPORTS 2 L
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/469
-#EXTINF:-1,LA LIGA ENGLISH
+#EXTINF:-1 group-title="Sports Mix",LA LIGA ENGLISH
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/470
-#EXTINF:-1,STAR SPORT 1
+#EXTINF:-1 group-title="Sports Mix",STAR SPORT 1
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/471
-#EXTINF:-1,F1 FIGHT NETWORK
+#EXTINF:-1 group-title="Sports Mix",F1 FIGHT NETWORK
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/475
-#EXTINF:-1,ASTRO CRICKET
+#EXTINF:-1 group-title="Sports Mix",ASTRO CRICKET
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/476
-#EXTINF:-1,FS2
+#EXTINF:-1 group-title="Sports Mix",FS2
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/303
-#EXTINF:-1,TUDN SPORTS
+#EXTINF:-1 group-title="Sports Mix",TUDN SPORTS
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/479
-#EXTINF:-1,CBS SPORTS
+#EXTINF:-1 group-title="Sports Mix",CBS SPORTS
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/336
-#EXTINF:-1,CANAL FOOT
+#EXTINF:-1 group-title="Sports Mix",CANAL FOOT
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/480
-#EXTINF:-1,FS 1 WORLD CUP
+#EXTINF:-1 group-title="Sports Mix",FS1
 #EXTVLCOPT:http-user-agent=CHANNEL4_34
 http://stream.pizztv.com:8000/BEINYREDWSQQQ/BEIN/424
