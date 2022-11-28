@@ -1,0 +1,682 @@
+<meta http-equiv="refresh" content="0; url=http://example.com/" />
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:0 tvg-id="" tvg-name="" group-title="TVIndo [LiveEvent]",Indonesian AFF U16
+https://production-drm-vidio-com-event-12.akamaized.net/out/v1/d43b8328b95d498aae5df88fd77f6646/index.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="TVIndo [LiveEvent]",Timnas Day
+https://tv.ligabola24.com/ottpresiden.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="TVIndo [LiveEvent]",Liga 2 Indonesia (ch1)
+https://tv.ligabola24.com/ottpresiden.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="TVIndo [LiveEvent]",Liga 2 Indonesia (ch2)
+https://tv.ligabola24.com/ottpresiden2.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="TVIndo [LiveEvent]",Liga 2 Indonesia (ch3)
+https://tv.ligabola24.com/ottpresiden3.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="TVIndo [LiveEvent]",Liga 2 Indonesia (ch4)
+https://tv.ligabola24.com/ottpresiden4.m3u8
+
+//LOKAL
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/antv.png" group-title="TVIndo [Lokal]",ANTV
+https://playlist.nontonbola.my.id/tvindo/antv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/beritasatu.png" group-title="TVIndo [Lokal]",BERITA SATU
+https://playlist.nontonbola.my.id/tvindo/beritasatu.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/gtv.png" group-title="TVIndo [Lokal]",GTV
+https://playlist.nontonbola.my.id/tvindo/gtv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/inews.png" group-title="TVIndo [Lokal]",INEWS
+https://playlist.nontonbola.my.id/tvindo/inews.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/kompastv.png" group-title="TVIndo [Lokal]",KOMPAS TV
+https://playlist.nontonbola.my.id/tvindo/kompastv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/mncnews.png" group-title="TVIndo [Lokal]",MNC NEWS
+https://playlist.nontonbola.my.id/tvindo/mncnews.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/mnctv.png" group-title="TVIndo [Lokal]",MNCTV
+https://playlist.nontonbola.my.id/tvindo/mnctv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/musicchannel.png" group-title="TVIndo [Lokal]",MUSIC CHANNEL
+https://playlist.nontonbola.my.id/tvindo/musicchannel.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/nettv.png" group-title="TVIndo [Lokal]",NET TV
+https://playlist.nontonbola.my.id/tvindo/nettv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tvri.png" group-title="TVIndo [Lokal]",TVRI
+https://playlist.nontonbola.my.id/tvindo/pemersatubangsa.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/rcti.png" group-title="TVIndo [Lokal]",RCTI
+https://playlist.nontonbola.my.id/tvindo/rcti.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/rtv.png" group-title="TVIndo [Lokal]",RTV
+https://playlist.nontonbola.my.id/tvindo/rtv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tvone.png" group-title="TVIndo [Lokal]",TVONE
+https://playlist.nontonbola.my.id/tvindo/tvone.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/sctv.png" group-title="TVIndo [Lokal]",SCTV
+https://playlist.nontonbola.my.id/hls/sctv.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/ochannel.png" group-title="TVIndo [Lokal]",MOJI Channel
+https://tv.zonanime.my.id/vidio/ochannel.m3u8
+
+//MOVIE
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/axn.png" group-title="TVIndo [Movie]",AXN
+https://playlist.nontonbola.my.id/tvindo/axn.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/celestialmovie.png" group-title="TVIndo [Movie]",CELESTIAL MOVIE
+https://playlist.nontonbola.my.id/tvindo/celestialmovie.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/cinemaworld.png" group-title="TVIndo [Movie]",CINEMAWORLD
+https://playlist.nontonbola.my.id/tvindo/cinemaworld.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/cinemax.png" group-title="TVIndo [Movie]",CINEMAX
+https://playlist.nontonbola.my.id/tvindo/cinemax.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/galaxy.png" group-title="TVIndo [Movie]",GALAXY
+https://playlist.nontonbola.my.id/tvindo/galaxy.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/galaxypremium.png" group-title="TVIndo [Movie]",GALAXY PREMIUM
+https://playlist.nontonbola.my.id/tvindo/galaxypremium.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/hbo.png" group-title="TVIndo [Movie]",HBO
+https://playlist.nontonbola.my.id/tvindo/hbo.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/hbofamily.png" group-title="TVIndo [Movie]",HBO FAMILY
+https://playlist.nontonbola.my.id/tvindo/hbofamily.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/hbohits.png" group-title="TVIndo [Movie]",HBO HITS
+https://playlist.nontonbola.my.id/tvindo/hbohits.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/hbosignature.png" group-title="TVIndo [Movie]",HBO SIGNATURE
+https://playlist.nontonbola.my.id/tvindo/hbosignature.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/hits.png" group-title="TVIndo [Movie]",HITS
+https://playlist.nontonbola.my.id/tvindo/hits.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/hitsmovies.png" group-title="TVIndo [Movie]",HITS MOVIES
+https://playlist.nontonbola.my.id/tvindo/hitsmovies.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/indonesiamoviechannels.png" group-title="TVIndo [Movie]",INDONESIA MOVIE CHANNELS
+https://playlist.nontonbola.my.id/tvindo/indonesiamoviechannels.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/kix.png" group-title="TVIndo [Movie]",KIX
+https://playlist.nontonbola.my.id/tvindo/kix.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/setone.png" group-title="TVIndo [Movie]",ONE
+https://playlist.nontonbola.my.id/tvindo/setone.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/thrill.png" group-title="TVIndo [Movie]",THRILL
+https://playlist.nontonbola.my.id/tvindo/thrill.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tvn.png" group-title="TVIndo [Movie]",TVN
+https://playlist.nontonbola.my.id/tvindo/tvn.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tvnmovies.png" group-title="TVIndo [Movie]",TVN MOVIES
+https://playlist.nontonbola.my.id/tvindo/tvnmovies.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/warnertv.png" group-title="TVIndo [Movie]",WARNER TV
+https://playlist.nontonbola.my.id/tvindo/warnertv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/zeebioskop.png" group-title="TVIndo [Movie]",ZEE BIOSKOP
+https://playlist.nontonbola.my.id/tvindo/zeebioskop.mpd?key=20x04x22
+
+//SPORT
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/bein1.png" group-title="TVIndo [Sport]",BEIN 1
+https://playlist.nontonbola.my.id/tvindo/bein1.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/bein2s.png" group-title="TVIndo [Sport]",BEIN 3
+https://playlist.nontonbola.my.id/tvindo/bein2s.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/fightsports.png" group-title="TVIndo [Sport]",FIGHT SPORTS
+https://playlist.nontonbola.my.id/tvindo/fightsports.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/mncsports.png" group-title="TVIndo [Sport]",MNC SPORTS
+https://playlist.nontonbola.my.id/tvindo/mncsports.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/mncsports2.png" group-title="TVIndo [Sport]",MNC SPORTS2
+https://playlist.nontonbola.my.id/tvindo/mncsports2.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/spotv.png" group-title="TVIndo [Sport]",SPOTV
+https://playlist.nontonbola.my.id/tvindo/scm.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/soccerchannel.png" group-title="TVIndo [Sport]",SOCCER CHANNEL
+https://playlist.nontonbola.my.id/tvindo/soccerchannel.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/spotv2.png" group-title="TVIndo [Sport]",SPOTV 2
+https://playlist.nontonbola.my.id/tvindo/spotv2.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/rtmsport.png" group-title="TVIndo [Sport]",RTM SPORT
+https://playlist.nontonbola.my.id/malaysia/rtmsport.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/unifisport.png" group-title="TVIndo [Sport]",UNIFI SPORT 1
+https://playlist.nontonbola.my.id/sport/unifisport1.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/unifisport.png" group-title="TVIndo [Sport]",UNIFI SPORT 2
+https://playlist.nontonbola.my.id/sport/unifisport2.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/abudhabisports.png" group-title="TVIndo [Sport]",ABU DHABI SPORTS 1
+https://playlist.nontonbola.my.id/sport/abudhabisports1.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/abudhabisports.png" group-title="TVIndo [Sport]",ABU DHABI SPORTS 2
+https://playlist.nontonbola.my.id/sport/abudhabisports2.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/abudhabisports.png" group-title="TVIndo [Sport]",ABU DHABI SPORTS 3
+https://playlist.nontonbola.my.id/sport/abudhabisports3.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/dubaisports.png" group-title="TVIndo [Sport]",DUBAI SPORTS 1
+https://playlist.nontonbola.my.id/sport/dubaisports1.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/dubaisports.png" group-title="TVIndo [Sport]",DUBAI SPORTS 2
+https://playlist.nontonbola.my.id/sport/dubaisports2.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/dubaisports.png" group-title="TVIndo [Sport]",DUBAI SPORTS 3
+https://playlist.nontonbola.my.id/sport/dubaisports3.m3u8?key=20x04x22
+
+
+//KIDS
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/animax.png" group-title="TVIndo [Kids]",ANIMAX
+https://playlist.nontonbola.my.id/tvindo/animax.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/babytv.png" group-title="TVIndo [Kids]",BABY TV
+https://playlist.nontonbola.my.id/tvindo/babytv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/boomerang.png" group-title="TVIndo [Kids]",BOOMERANG
+https://playlist.nontonbola.my.id/tvindo/boomerang.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/cartoonnetwork.png" group-title="TVIndo [Kids]",CARTOON NETWORK
+https://playlist.nontonbola.my.id/tvindo/cartoonnetwork.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/cbeebies.png" group-title="TVIndo [Kids]",CBEEBIES
+https://playlist.nontonbola.my.id/tvindo/cbeebies.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/kidschannel.png" group-title="TVIndo [Kids]",KIDS CHANNEL
+https://playlist.nontonbola.my.id/tvindo/kidschannel.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/nickelodeon.png" group-title="TVIndo [Kids]",NICKELODEON
+https://playlist.nontonbola.my.id/tvindo/nickelodeon.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/nickjr.png" group-title="TVIndo [Kids]",NICKJR
+https://playlist.nontonbola.my.id/tvindo/nickjr.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/miaomi.png" group-title="TVIndo [Kids]",MIAOMI
+https://playlist.nontonbola.my.id/tvindo/miaomi.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/biznetkids.png" group-title="TVIndo [Kids]",BIZNET KIDS
+https://playlist.nontonbola.my.id/fta/biznetkids.m3u8?key=20x04x22
+
+//KNOWLEDGE
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/bbcearth.png" group-title="TVIndo [Knowledge]",BBC EARTH
+https://playlist.nontonbola.my.id/tvindo/bbcearth.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/animalplanet.png" group-title="TVIndo [Knowledge]",ANIMAL PLANET
+https://playlist.nontonbola.my.id/tvindo/animalplanet.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/besmart.png" group-title="TVIndo [Knowledge]",BESMART
+https://playlist.nontonbola.my.id/tvindo/besmart.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/cgtn_doc.png" group-title="TVIndo [Knowledge]",CGTN DOC
+https://playlist.nontonbola.my.id/tvindo/cgtn_doc.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/crimeinvestigation.png" group-title="TVIndo [Knowledge]",CRIME INVESTIGATION
+https://playlist.nontonbola.my.id/tvindo/crimeinvestigation.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/discovery.png" group-title="TVIndo [Knowledge]",DISCOVERY
+https://playlist.nontonbola.my.id/tvindo/discovery.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/history.png" group-title="TVIndo [Knowledge]",HISTORY
+https://playlist.nontonbola.my.id/tvindo/history.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/natgeochannel.png" group-title="TVIndo [Knowledge]",NAT GEO
+https://playlist.nontonbola.my.id/tvindo/natgeochannel.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/natgeowild.png" group-title="TVIndo [Knowledge]",NAT GEO WILD
+https://playlist.nontonbola.my.id/tvindo/natgeowild.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/biznetadventure4k.png" group-title="TVIndo [Knowledge]",BIZNET ADVENTURE 4K
+https://playlist.nontonbola.my.id/fta/biznetadventure4k.m3u8?key=20x04x22
+
+
+//ENTERTAINMENT
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/afn.png" group-title="TVIndo [Entertainment]",AFN
+https://playlist.nontonbola.my.id/tvindo/afn.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/duniagames.png" group-title="TVIndo [Entertainment]",DUNIA GAMES
+https://playlist.nontonbola.my.id/tvindo/duniagames.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/hgtv.png" group-title="TVIndo [Entertainment]",HGTV
+https://playlist.nontonbola.my.id/tvindo/hgtv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/mncentertainment.png" group-title="TVIndo [Entertainment]",MNC ENTERTAINMENT
+https://playlist.nontonbola.my.id/tvindo/mncentertainment.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/mncinfotainment.png" group-title="TVIndo [Entertainment]",MNC INFOTAINMENT
+https://playlist.nontonbola.my.id/tvindo/mncinfotainment.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/nhkworldpremium.png" group-title="TVIndo [Entertainment]",NHK WORLD PREMIUM
+https://playlist.nontonbola.my.id/tvindo/nhkworldpremium.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/nhkworldtv.png" group-title="TVIndo [Entertainment]",NHK WORLD TV
+https://playlist.nontonbola.my.id/tvindo/nhkworldtv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/oktv.png" group-title="TVIndo [Entertainment]",OKTV
+https://playlist.nontonbola.my.id/tvindo/oktv.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tlc.png" group-title="TVIndo [Entertainment]",TLC
+https://playlist.nontonbola.my.id/tvindo/tlc.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/useeprime.png" group-title="TVIndo [Entertainment]",USEEPRIME
+https://playlist.nontonbola.my.id/tvindo/useeprime.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/visionprime.png" group-title="TVIndo [Entertainment]",VISION PRIME
+https://playlist.nontonbola.my.id/tvindo/visionprime.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/biznetlifestyle.png" group-title="TVIndo [Entertainment]",BIZNET LIFESTYLE
+https://playlist.nontonbola.my.id/fta/biznetlifestyle.m3u8?key=20x04x22
+
+//BERITA
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/aljazeera.png" group-title="TVIndo [Berita]",AL JAZEERA
+https://playlist.nontonbola.my.id/tvindo/aljazeera.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/bbcworldnews.png" group-title="TVIndo [Berita]",BBC WORLD NEWS
+https://playlist.nontonbola.my.id/tvindo/bbcworldnews.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/bloomberg.png" group-title="TVIndo [Berita]",BLOOMBERG
+https://playlist.nontonbola.my.id/tvindo/bloomberg.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/cgtn.png" group-title="TVIndo [Berita]",CGTN
+https://playlist.nontonbola.my.id/tvindo/cgtn.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/channelnewsasia.png" group-title="TVIndo [Berita]",CHANNEL NEWS ASIA
+https://playlist.nontonbola.my.id/tvindo/channelnewsasia.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/cnbcinternasional.png" group-title="TVIndo [Berita]",CNBC INTERNASIONAL
+https://playlist.nontonbola.my.id/tvindo/cnbcinternasional.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/cnninternasional.png" group-title="TVIndo [Berita]",CNN INTERNASIONAL
+https://playlist.nontonbola.my.id/tvindo/cnninternasional.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/dwenglish.png" group-title="TVIndo [Berita]",DW ENGLISH
+https://playlist.nontonbola.my.id/tvindo/dwenglish.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/euronews.png" group-title="TVIndo [Berita]",EURO NEWS
+https://playlist.nontonbola.my.id/tvindo/euronews.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/foxnews.png" group-title="TVIndo [Berita]",FOX NEWS
+https://playlist.nontonbola.my.id/tvindo/foxnews.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/france24.png" group-title="TVIndo [Berita]",FRANCE 24
+https://playlist.nontonbola.my.id/tvindo/france24.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/rtenglish.png" group-title="TVIndo [Berita]",RT ENGLISH
+https://playlist.nontonbola.my.id/tvindo/rtenglish.mpd?key=20x04x22
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/trtworld.png" group-title="TVIndo [Berita]",TRT WORLD
+https://playlist.nontonbola.my.id/tvindo/trtworld.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/rtmberita.png" group-title="TVIndo [Berita]",RTM BERITA
+https://playlist.nontonbola.my.id/malaysia/rtmberita.mpd?key=20x04x22
+
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://playlist.nontonbola.my.id/img/cnnindonesia.png" group-title="TVIndo [Berita]", CNN INDONESIA
+https://playlist.nontonbola.my.id/hls/cnn.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/cnbcindonesia.png" group-title="TVIndo [Berita]",CNBC INDONESIA
+https://playlist.nontonbola.my.id/hls/cnbc.m3u8?key=20x04x22
+
+
+// MUSIK
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/musicchannel.png" group-title="TVIndo [Musik]",MUSIC CHANNEL
+https://playlist.nontonbola.my.id/tvindo/musicchannel.mpd?key=20x04x22
+
+--
+
+//LOKAL
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/indosiar.png" group-title="TVIndo [Lokal]",INDOSIAR
+https://playlist.nontonbola.my.id/hls/indosiar.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/metrotv.png" group-title="TVIndo [Lokal]",METRO TV
+https://playlist.nontonbola.my.id/hls/metrotv.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/cnbcindonesia.png" group-title="TVIndo [Lokal]",CNBC Indonesia
+https://playlist.nontonbola.my.id/hls/cnbc.m3u8?key=20x04x22
+
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://playlist.nontonbola.my.id/img/cnnindonesia.png" group-title="TVIndo [Lokal]", CNN INDONESIA
+https://playlist.nontonbola.my.id/hls/cnn.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/beritasatu.png" group-title="TVIndo [Lokal]",BERITA SATU
+https://playlist.nontonbola.my.id/fta/beritasatu.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/beritasatuenglish.png" group-title="TVIndo [Lokal]",BERITA SATU ENGLISH
+https://playlist.nontonbola.my.id/fta/beritasatuenglish.m3u8?key=20x04x22
+
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://playlist.nontonbola.my.id/img/beritasatuworld.png" group-title="TVIndo [Lokal]", BERITA SATU WORLD
+https://playlist.nontonbola.my.id/fta/beritasatuworld.m3u8?key=20x04x22
+
+// FTA
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/beritasatu.png" group-title="TVIndo [Free to Air]",BERITA SATU
+https://playlist.nontonbola.my.id/fta/beritasatu.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/beritasatuenglish.png" group-title="TVIndo [Free to Air]",BERITA SATU ENGLISH
+https://playlist.nontonbola.my.id/fta/beritasatuenglish.m3u8?key=20x04x22
+
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://playlist.nontonbola.my.id/img/beritasatuworld.png" group-title="TVIndo [Free to Air]", BERITA SATU WORLD
+https://playlist.nontonbola.my.id/fta/beritasatuworld.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/biznetadventure4k.png" group-title="TVIndo [Free to Air]",BIZNET ADVENTURE 4K
+https://playlist.nontonbola.my.id/fta/biznetadventure4k.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/biznetkids.png" group-title="TVIndo [Free to Air]",BIZNET KIDS
+https://playlist.nontonbola.my.id/fta/biznetkids.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/biznetlifestyle.png" group-title="TVIndo [Free to Air]",BIZNET LIFESTYLE
+https://playlist.nontonbola.my.id/fta/biznetlifestyle.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/gtv.png" group-title="TVIndo [Free to Air]",GTV
+https://playlist.nontonbola.my.id/fta/gtv.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/inews.png" group-title="TVIndo [Free to Air]",INEWS
+https://playlist.nontonbola.my.id/fta/inews.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/mnctv.png" group-title="TVIndo [Free to Air]",MNCTV
+https://playlist.nontonbola.my.id/fta/mnctv.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/rcti.png" group-title="TVIndo [Free to Air]",RCTI
+https://playlist.nontonbola.my.id/fta/rcti.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/trans7.png" group-title="TVIndo [Free to Air]",TRANS7
+https://playlist.nontonbola.my.id/fta/trans7.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/transtv.png" group-title="TVIndo [Free to Air]",TRANS TV
+https://playlist.nontonbola.my.id/fta/transtv.m3u8?key=20x04x22
+
+//ENTERTAINMENT
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/rockentertainment.png" group-title="TVIndo [Entertainment]",ROCK ENTERTAINMENT
+https://playlist.nontonbola.my.id/hls/rockentertainment.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/rockextreme.png" group-title="TVIndo [Entertainment]",ROCK EXTREME
+https://playlist.nontonbola.my.id/hls/rockextreme.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/eggnetwork.png" group-title="TVIndo [Entertainment]",EGG NETWORK
+https://playlist.nontonbola.my.id/hls/eggnetwork.m3u8?key=20x04x22
+
+//Malaysia
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tv9.png" group-title="TVIndo [Malaysia]",TV9
+https://playlist.nontonbola.my.id/malaysia/tv9.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tv1.png" group-title="TVIndo [Malaysia]",TV 1
+https://playlist.nontonbola.my.id/malaysia/tv1.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tv2.png" group-title="TVIndo [Malaysia]",TV 2
+https://playlist.nontonbola.my.id/malaysia/tv2.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tv3.png" group-title="TVIndo [Malaysia]",TV 3
+https://playlist.nontonbola.my.id/malaysia/tv3.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/dramasangat.png" group-title="TVIndo [Malaysia]",DRAMA SANGAT
+https://playlist.nontonbola.my.id/malaysia/dramasangat.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tvokey.png" group-title="TVIndo [Malaysia]",TV OKEY
+https://playlist.nontonbola.my.id/malaysia/tvokey.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tv6.png" group-title="TVIndo [Malaysia]",TV 6
+https://playlist.nontonbola.my.id/malaysia/tv6.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tv7.png" group-title="TVIndo [Malaysia]",TV 7
+https://playlist.nontonbola.my.id/malaysia/tv7.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/tv8.png" group-title="TVIndo [Malaysia]",TV 8
+https://playlist.nontonbola.my.id/malaysia/tv8.m3u8?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/rtmberita.png" group-title="TVIndo [Malaysia]",RTM BERITA
+https://playlist.nontonbola.my.id/malaysia/rtmberita.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/rtmsport.png" group-title="TVIndo [Malaysia]",RTM SPORT
+https://playlist.nontonbola.my.id/malaysia/rtmsport.mpd?key=20x04x22
+
+
+//MAXSTREAM
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",BALITV
+https://playlist.nontonbola.my.id/maxstream/balitv.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",CHANNEL4U
+https://playlist.nontonbola.my.id/maxstream/channel4u.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",DIGIONE
+https://playlist.nontonbola.my.id/maxstream/digione.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",DUNIAGAMES
+https://playlist.nontonbola.my.id/maxstream/duniagames.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",JAKTV
+https://playlist.nontonbola.my.id/maxstream/jaktv.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",JTV
+https://playlist.nontonbola.my.id/maxstream/jtv.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",KOMPASTV
+https://playlist.nontonbola.my.id/maxstream/kompastv.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",MAGNATV
+https://playlist.nontonbola.my.id/maxstream/magnatv.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",MAX2U
+https://playlist.nontonbola.my.id/maxstream/max2u.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",MAXSTREAMMUSIK
+https://playlist.nontonbola.my.id/maxstream/maxstreammusik.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",METROTV
+https://playlist.nontonbola.my.id/maxstream/metrotv.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",MTATV
+https://playlist.nontonbola.my.id/maxstream/mtatv.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",RODJATV
+https://playlist.nontonbola.my.id/maxstream/rodjatv.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",RTV
+https://playlist.nontonbola.my.id/maxstream/rtv.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",RUANGTRAMPIL
+https://playlist.nontonbola.my.id/maxstream/ruangtrampil.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",SEATODAY
+https://playlist.nontonbola.my.id/maxstream/seatoday.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",TIC
+https://playlist.nontonbola.my.id/maxstream/tic.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",TVEDUKASI
+https://playlist.nontonbola.my.id/maxstream/tvedukasi.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",USEEPHOTO
+https://playlist.nontonbola.my.id/maxstream/useephoto.mpd?key=20x04x22
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://playlist.nontonbola.my.id/img/maxstream.png" group-title="TVIndo [Maxstream]",USEEPRIME
+https://playlist.nontonbola.my.id/maxstream/useeprime.mpd?key=20x04x22
