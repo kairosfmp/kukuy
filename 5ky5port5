@@ -585,3 +585,34 @@ http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/735946.m3u8
 http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/735945.m3u8
 #EXTINF:-1,UK| BEIN SPORTS 3 EN SD
 http://line.protv.cc:80/live/jkdeGKK3uw/W7296Cdnya/735944.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ITV UK
+http://sonoiptv.xyz:8080/worldcupHYghytch/zdwAvNZYJ3/24926
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sky Sports Premier League1
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/diiefbxx.ss.m3u8
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Premium 1
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Premium 1
+http://ziyadiptv.net:80/05519648407TT/05519648407/27501
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 1
+http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN PREMIUM 01 Low 512
+http://4k.dragonprox.live:8080/MYSLwbpJfB/WMd2PAF8Qw/51829
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN PREMIUM 03 SD
+http://4k.dragonprox.live:8080/MYSLwbpJfB/WMd2PAF8Qw/92763
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Premium 3
+http://ziyadiptv.net:80/05519648407TT/05519648407/18960
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",bein : beIN Sports Premium 3 HD
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2775
+
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN PREMIUM 02 Low 512
+http://4k.dragonprox.live:8080/MYSLwbpJfB/WMd2PAF8Qw/51828
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Premium 2 HD
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Premium 2
+http://ziyadiptv.net:80/05519648407TT/05519648407/18978
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 2
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044189
+
