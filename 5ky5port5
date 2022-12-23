@@ -636,3 +636,162 @@ http://ziyadiptv.net:80/05519648407TT/05519648407/18978
 #EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 2
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044189
 
+
+#EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="UK014:BT Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK014BTSport1.png" group-title="UK Sports",UK014:BT Sport 1 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2943
+#EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="UK015:BT Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK015BTSport2.png" group-title="UK Sports",UK015:BT Sport 2 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2942
+#EXTINF:-1 tvg-id="bt.sport.3.gb" tvg-name="UK016:BT Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK016BTSport3.png" group-title="UK Sports",UK016:BT Sport 3 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2941
+#EXTINF:-1 tvg-id="bt.sport.x5.gb" tvg-name="UK112:BT Sports 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK112" group-title="UK Sports",UK112:BT Sports 5 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/28947
+#EXTINF:-1 tvg-id="bt.sport.x4.gb" tvg-name="UK113:BT Sports 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK113" group-title="UK Sports",UK113:BT Sports 4 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/28946
+#EXTINF:-1 tvg-id="bt.sport.espn.gb" tvg-name="UK017:BT Sport ESPN FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK017BTSportESPN.png" group-title="UK Sports",UK017:BT Sport ESPN FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2940
+#EXTINF:-1 tvg-id="sky.sports.racing.gb" tvg-name="UK318:Sky Sports Racing FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK318SkySportsRacingFHD.png" group-title="UK Sports",UK318:Sky Sports Racing FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/28741
+#EXTINF:-1 tvg-id="sky.sports.premier.league.gb" tvg-name="UK117:Sky Sports Premier League SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK117SkySportsPremierLeagueSD.png" group-title="UK Sports",UK117:Sky Sports Premier League SD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/28942
+#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK087SkySportsFootball.png" group-title="UK Sports",UK087:Sky Sports Football HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2870
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK081:Sky Sports F1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK081SkySportsF1.png" group-title="UK Sports",UK081:Sky Sports F1 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2876
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK080SkySportsPremierLeague.png" group-title="UK Sports",UK080:Sky Sports PremierLeague HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2877
+#EXTINF:-1 tvg-id="sky.sports.mix.gb" tvg-name="UK075:Sky Sports Mix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK075SkySportsMix.png" group-title="UK Sports",UK075:Sky Sports Mix FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2882
+#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK076:Sky Sports MainEvent HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK076SkySportsMainEvent.png" group-title="UK Sports",UK076:Sky Sports MainEvent HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2881
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK077:Sky Sports Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK077SkySportsAction.png" group-title="UK Sports",UK077:Sky Sports Action HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2880
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK055:Sky Sports Arena HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK055SkySportsArena.png" group-title="UK Sports",UK055:Sky Sports Arena HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2902
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="UK141:BeIN Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK141beINSports1.png" group-title="UK Sports",UK141:BeIN Sports 1 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/28918
+#EXTINF:-1 tvg-id="" tvg-name="UK142:BeIN Sports 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK142beINSports2.png" group-title="UK Sports",UK142:BeIN Sports 2 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/28917
+#EXTINF:-1 tvg-id="" tvg-name="UK143:BeIN Sports 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK143beINSports3.png" group-title="UK Sports",UK143:BeIN Sports 4 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/28916
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK051:ITV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="UK Sports",UK051:ITV 1 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2906
+#EXTINF:-1 tvg-id="itv2.gb" tvg-name="UK052:ITV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK052ITV2.png" group-title="UK Sports",UK052:ITV 2 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2905
+#EXTINF:-1 tvg-id="itv3.gb" tvg-name="UK053:ITV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK053ITV3.png" group-title="UK Sports",UK053:ITV 3 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2904
+#EXTINF:-1 tvg-id="itv4.gb" tvg-name="UK054:ITV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK054ITV4.png" group-title="UK Sports",UK054:ITV 4 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2903
+#EXTINF:-1 tvg-id="citv.gb" tvg-name="UK219:C ITV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK219CITVHD.png" group-title="UK Sports",UK219:C ITV HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/28840
+
+
+#EXTINF:-1 tvg-id="espnd.us" tvg-name="US895:ESPN +" tvg-logo="" group-title="USA Sports",US895:ESPN +
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/60006
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US031:ESPN-2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="USA Sports",US031:ESPN-2
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/3137
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US032:ESPN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN-HD.png" group-title="USA Sports",US032:ESPN-HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/3136
+#EXTINF:-1 tvg-id="espnews.us" tvg-name="US033:ESPN-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US033ESPN-News.png" group-title="USA Sports",US033:ESPN-News
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/3135
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US034:ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="USA Sports",US034:ESPN-U
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/3134
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="US009:BeIN Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US009Bein-Sports.png" group-title="USA Sports",US009:BeIN Sports 1 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/3159
+
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL106:ESPN 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL106ESPN1FHD.png" group-title="NL Sports",NL106:ESPN 1 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/31425
+#EXTINF:-1 tvg-id="espn.2.nl" tvg-name="NL107:ESPN 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL107ESPN2FHD.png" group-title="NL Sports",NL107:ESPN 2 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/31424
+#EXTINF:-1 tvg-id="espn.3.nl" tvg-name="NL108:ESPN 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL108ESPN3FHD.png" group-title="NL Sports",NL108:ESPN 3 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/31423
+#EXTINF:-1 tvg-id="espn.4.nl" tvg-name="NL109:ESPN 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL109ESPN4HD.png" group-title="NL Sports",NL109:ESPN 4 HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/31422
+#EXTINF:-1 tvg-id="espn.5.nl" tvg-name="NL110:ESPN 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL110ESPN5FHD.png" group-title="NL Sports",NL110:ESPN 5 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/31421
+
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="IT105:Sky Sport NBA HD" tvg-logo="" group-title="NBA",IT105:Sky Sport NBA HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/28457
+#EXTINF:-1 tvg-id="nba.canada.ca" tvg-name="CA032:NBA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA032NBACA.png" group-title="NBA",CA032:NBA HD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/3037
+#EXTINF:-1 tvg-id="nba.usa.us" tvg-name="US060:NBA-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US060NBA-TV.png" group-title="NBA",US060:NBA-TV
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/3108
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US665:NBA Memphis Grizzlies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US665NBALeaguePass01.png" group-title="NBA",US665:NBA Memphis Grizzlies
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/29525
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US666:NBA Miami Heat" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US666NBALeaguePass02.png" group-title="NBA",US666:NBA Miami Heat
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/29524
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US667:NBA Milwaukee Bucks" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US667NBALeaguePass03.png" group-title="NBA",US667:NBA Milwaukee Bucks
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/29523
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US668:NBA Minnesota Timberwolves" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US668NBALeaguePass04.png" group-title="NBA",US668:NBA Minnesota Timberwolves
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/29522
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US669:NBA New Orleans Pelicans" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US669NBALeaguePass05.png" group-title="NBA",US669:NBA New Orleans Pelicans
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/29521
+#EXTINF:-1 tvg-id="nba.league.pass.6.us" tvg-name="US670:NBA Phoenix Suns" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US670NBALeaguePass06.png" group-title="NBA",US670:NBA Phoenix Suns
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/29520
+#EXTINF:-1 tvg-id="nba.league.pass.7.us" tvg-name="US671:NBA New York Knicks" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US671NBALeaguePass07.png" group-title="NBA",US671:NBA New York Knicks
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/29519
+#EXTINF:-1 tvg-id="nba.league.pass.8.us" tvg-name="US672:NBA Oklahoma City Thunders" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/" group-title="NBA",US672:NBA Oklahoma City Thunders
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/29518
+#EXTINF:-1 tvg-id="nba.league.pass.9.us" tvg-name="US673:NBA Orlando Magic" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/" group-title="NBA",US673:NBA Orlando Magic
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/29517
+#EXTINF:-1 tvg-id="" tvg-name="US674:NBA Philadelphia 76ers" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/" group-title="NBA",US674:NBA Philadelphia 76ers
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/29516
+#EXTINF:-1 tvg-id="" tvg-name="US890:NBA Golden State Warriors" tvg-logo="" group-title="NBA",US890:NBA Golden State Warriors
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/60228
+#EXTINF:-1 tvg-id="" tvg-name="US929:NBA Denver Nuggets" tvg-logo="" group-title="NBA",US929:NBA Denver Nuggets
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/60978
+#EXTINF:-1 tvg-id="" tvg-name="US928:NBA Detroit Pistons" tvg-logo="" group-title="NBA",US928:NBA Detroit Pistons
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/60977
+#EXTINF:-1 tvg-id="" tvg-name="US927:NBA Houston Rockets" tvg-logo="" group-title="NBA",US927:NBA Houston Rockets
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/60976
+#EXTINF:-1 tvg-id="" tvg-name="US926:NBA Indiana Pacers" tvg-logo="" group-title="NBA",US926:NBA Indiana Pacers
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/60975
+#EXTINF:-1 tvg-id="" tvg-name="US925:NBA Los Angles Clippers" tvg-logo="" group-title="NBA",US925:NBA Los Angles Clippers
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/60974
+#EXTINF:-1 tvg-id="" tvg-name="US924:NBA Los Angles Lakers" tvg-logo="" group-title="NBA",US924:NBA Los Angles Lakers
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/60973
+#EXTINF:-1 tvg-id="" tvg-name="US922:NBA Brooklyn Nets" tvg-logo="" group-title="NBA",US922:NBA Brooklyn Nets
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/60971
+#EXTINF:-1 tvg-id="" tvg-name="US921:NBA Charlotte Hornets" tvg-logo="" group-title="NBA",US921:NBA Charlotte Hornets
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/68774
+#EXTINF:-1 tvg-id="" tvg-name="US920:NBA Chicago Bulls" tvg-logo="" group-title="NBA",US920:NBA Chicago Bulls
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/68773
+#EXTINF:-1 tvg-id="" tvg-name="US919:NBA Clevland Cavaliers" tvg-logo="" group-title="NBA",US919:NBA Clevland Cavaliers
+
+#EXTINF:-1 tvg-id="bein.sports.1.ae" tvg-name="BN028:Bein Sport 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN028BeinSport1FHD.png" group-title="Arab Bein",BN028:Bein Sport 1 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59271
+#EXTINF:-1 tvg-id="bein.sports.2.ae" tvg-name="BN029:Bein Sport 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN029BeinSport2FHD.png" group-title="Arab Bein",BN029:Bein Sport 2 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59270
+#EXTINF:-1 tvg-id="bein.sports.3.ae" tvg-name="BN030:Bein Sport 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN030BeinSport3FHD.png" group-title="Arab Bein",BN030:Bein Sport 3 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59269
+#EXTINF:-1 tvg-id="bein.sports.4.ae" tvg-name="BN031:Bein Sport 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN031BeinSport4FHD.png" group-title="Arab Bein",BN031:Bein Sport 4 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59268
+#EXTINF:-1 tvg-id="bein.sports.5.ae" tvg-name="BN032:Bein Sport 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN032BeinSport5FHD.png" group-title="Arab Bein",BN032:Bein Sport 5 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59267
+#EXTINF:-1 tvg-id="bein.sports.6.ae" tvg-name="BN033:Bein Sport 6 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN033BeinSport6FHD.png" group-title="Arab Bein",BN033:Bein Sport 6 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59266
+#EXTINF:-1 tvg-id="bein.sports.7.ae" tvg-name="BN034:Bein Sport 7 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN034BeinSport7FHD.png" group-title="Arab Bein",BN034:Bein Sport 7 FHD
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59265
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN035:Bein Sports Max 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN035 Bein Sports Max 1.png" group-title="Arab Bein",BN035:Bein Sports Max 1
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59264
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN036:Bein Sports Max 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN036 Bein Sports Max 2.png" group-title="Arab Bein",BN036:Bein Sports Max 2
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59263
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN037:Bein Sports Max 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN037 Bein Sports Max 3.png" group-title="Arab Bein",BN037:Bein Sports Max 3
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59262
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN038:Bein Sports Max 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN038 Bein Sports Max 4.png" group-title="Arab Bein",BN038:Bein Sports Max 4
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59261
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN039:Bein Sports Max 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN039 Bein Sports Max 5.png" group-title="Arab Bein",BN039:Bein Sports Max 5
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/59260
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN022:Bein Sports Premium 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN022 Bein Sports Premium 1.png" group-title="Arab Bein",BN022:Bein Sports Premium 1
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2120
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN023:Bein Sports Premium 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN023 Bein Sports Premium 2.png" group-title="Arab Bein",BN023:Bein Sports Premium 2
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2119
+#EXTINF:-1 tvg-id="" tvg-name="BN025:Bein Sports Premium 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN025 Bein Sports Premium 3.png" group-title="Arab Bein",BN025:Bein Sports Premium 3
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2117
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN012:BeIN Sport ENG 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN012 BeIN Sport ENG 1.png" group-title="Arab Bein",BN012:BeIN Sport ENG 1
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2130
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN013:BeIN Sport ENG 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN013 BeIN Sport ENG 2.png" group-title="Arab Bein",BN013:BeIN Sport ENG 2
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2129
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN019:BeIN Sport ENG 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN019 BeIN Sport ENG 3.png" group-title="Arab Bein",BN019:BeIN Sport ENG 3
+http://mxu03.wanicelife.com:8880/12ms160086/67119493/2123
+
+
