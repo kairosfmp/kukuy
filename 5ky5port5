@@ -709,6 +709,9 @@ http://mxu03.wanicelife.com:8880/12ms160086/67119493/31422
 #EXTINF:-1 tvg-id="espn.5.nl" tvg-name="NL110:ESPN 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL110ESPN5FHD.png" group-title="NL Sports",NL110:ESPN 5 FHD
 http://mxu03.wanicelife.com:8880/12ms160086/67119493/31421
 
+
+#EXTINF:-1 group-title="NBA",PT: Sport TV NBA
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/130957
 #EXTINF:-1 tvg-id="+.globosat.br" tvg-name="IT105:Sky Sport NBA HD" tvg-logo="" group-title="NBA",IT105:Sky Sport NBA HD
 http://mxu03.wanicelife.com:8880/12ms160086/67119493/28457
 #EXTINF:-1 tvg-id="nba.canada.ca" tvg-name="CA032:NBA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA032NBACA.png" group-title="NBA",CA032:NBA HD
@@ -876,59 +879,71 @@ http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/16231
 http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/16232
 #EXTINF:-1 group-title="SportsMIX",UK: BT Sport ESPN
 http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/16238
-#EXTINF:-1 group-title="SportsMIX",UK: BT SPORT 1
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/1213
-#EXTINF:-1 group-title="SportsMIX",UK: BT SPORT 2
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/1214
-#EXTINF:-1 group-title="SportsMIX",UK: BT SPORT 3
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/1215
+#EXTINF:-1 group-title="SportsMIX",NL: ESPN HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/76357
+#EXTINF:-1 group-title="SportsMIX",NL: ESPN 2 HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/76358
+#EXTINF:-1 group-title="SportsMIX",NL: ESPN 3 HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/76359
+#EXTINF:-1 group-title="SportsMIX",NL: ESPN 4 HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/76360
 
-#EXTINF:-1 group-title="SportsMIX",beIN SPORTS 1 ENGLISH HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/69
-#EXTINF:-1 group-title="SportsMIX",beIN SPORTS 2 ENGLISH HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/70
-#EXTINF:-1 group-title="SportsMIX",beIN Sport XTRA 1 HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/1211
-#EXTINF:-1 group-title="SportsMIX",beIN Sport XTRA 2 HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/1212
+#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports 1 HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224093
+#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports 2 HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224095
+#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports 3 HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224097
+#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports 4 HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224099
+#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports  5 HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224101
+#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports 6 HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224103
+#EXTINF:-1 group-title="SportsMIX",PT: Sport TV NBA
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/130957
 
-#EXTINF:-1 group-title="SportsMIX",US: TSN 1
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/915
-#EXTINF:-1 group-title="SportsMIX",US:  TSN 2
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/916
-#EXTINF:-1 group-title="SportsMIX",US: TSN 3
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/917
-#EXTINF:-1 group-title="SportsMIX",US: TSN 4
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/918
-#EXTINF:-1 group-title="SportsMIX",US: TSN 5
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/919
-#EXTINF:-1 group-title="SportsMIX",US: ESPN HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/920
-#EXTINF:-1 group-title="SportsMIX",US: ESPN 2
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/921
-#EXTINF:-1 group-title="SportsMIX",US: ESPN U HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/922
-#EXTINF:-1 group-title="SportsMIX",US: Bein Sport USA
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/923
-#EXTINF:-1 group-title="SportsMIX",US: beIN Sports 
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/924
-#EXTINF:-1 group-title="SportsMIX",US: ESPN
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/925
-#EXTINF:-1 group-title="SportsMIX",US: ESPN 2
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/926
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Action HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/684
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Football HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/686
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport LaLiga
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/687
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Grandstand FHD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/689
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Premier League HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/690
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport PSL HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/691
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Tennis FHD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/692
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Variety 3 HD
-http://fxorexworld.com:8080/zlt3G0C27j/HtP8xugkWp/693
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport Premier League
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158420
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport 1
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158399
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport 2
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158400
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport 3
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158401
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport 4
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158402
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport 5
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158403
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport 7
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/205680
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport 8
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/205681
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport 9
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/205682
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport 10
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/205683
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport 12
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/205684
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport Action
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158411
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport Blitz
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158412
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport Football
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158414
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport Grandstand
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158416
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport La Liga
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158417
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport  Motorsport
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158419
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport PSL HD
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158421
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport Variety 1
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158424
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport Variety 2
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158425
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport Variety 3
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158426
+#EXTINF:-1 group-title="SportsMIX",DSTV: SuperSport Variety 4
+http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/158427
