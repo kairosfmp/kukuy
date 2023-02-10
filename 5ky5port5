@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia",ID: ANIMAL PLANET
 http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157532
 #EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia",ID: ANTV
@@ -215,8 +214,6 @@ http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1098
 #EXTINF:-1 tvg-id="" tvg-name="UK: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/47718e36a9a5c42f3d005fcd9f3d94be.png" group-title="UK ➾ Kids",UK: nickelodeon
 http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/281864
 
-
-
 #EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="UK014:BT Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK014BTSport1.png" group-title="UK Sports",UK014:BT Sport 1 HD
 http://mxu03.wanicelife.com:8880/12ms160086/67119493/2943
 #EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="UK015:BT Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK015BTSport2.png" group-title="UK Sports",UK015:BT Sport 2 HD
@@ -263,7 +260,6 @@ http://mxu03.wanicelife.com:8880/12ms160086/67119493/2904
 http://mxu03.wanicelife.com:8880/12ms160086/67119493/2903
 #EXTINF:-1 tvg-id="citv.gb" tvg-name="UK219:C ITV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK219CITVHD.png" group-title="UK Sports",UK219:C ITV HD
 http://mxu03.wanicelife.com:8880/12ms160086/67119493/28840
-
 
 #EXTINF:-1 tvg-id="espnd.us" tvg-name="US895:ESPN +" tvg-logo="" group-title="USA Sports",US895:ESPN +
 http://mxu03.wanicelife.com:8880/12ms160086/67119493/60006
