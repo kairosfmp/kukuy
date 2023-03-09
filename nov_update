@@ -90,39 +90,43 @@ http://iptvtree.net:8080/stadnik/8f064f8602/11642
 #EXTINF:-1,ZA: SuperSport Football
 http://iptvtree.net:8080/stadnik/8f064f8602/38575
 
-#EXTINF:-1,EN : HD BEIN SPORTS ENGLISH 1 
-http://xtra.fireottplus.com:2052/csp11/localttt77/38146
-#EXTINF:-1,EN : HD BEIN SPORTS ENGLISH 2 
-http://xtra.fireottplus.com:2052/csp11/localttt77/38147
-#EXTINF:-1,EN : HD BEIN SPORTS ENGLISH 3 
-http://xtra.fireottplus.com:2052/csp11/localttt77/38148
-#EXTINF:-1,AR : HD BEIN SPORTS NBA 
-http://xtra.fireottplus.com:2052/csp11/localttt77/38151
-#EXTINF:-1,AR : ᴴᴰ BEINSPORTS 1 NBA 
-http://xtra.fireottplus.com:2052/csp11/localttt77/241351
-#EXTINF:-1,UK : HD S-K-Y SPORTS PREMIER LEAGUE
-http://xtra.fireottplus.com:2052/csp11/localttt77/146586
-#EXTINF:-1,UK : HD S-K-Y SPORTS PREMIER LEAGUE 
-http://xtra.fireottplus.com:2052/csp11/localttt77/146587
-#EXTINF:-1,UK : HD S-K-Y SPORTS F1
-http://xtra.fireottplus.com:2052/csp11/localttt77/146594
-#EXTINF:-1,UK : HD S-K-Y SPORTS F1 
-http://xtra.fireottplus.com:2052/csp11/localttt77/146595
-#EXTINF:-1,UK : HD S-K-Y SPORTS F1 
-http://xtra.fireottplus.com:2052/csp11/localttt77/146596
-#EXTINF:-1,UK : HD BT SPORT / ESPN
-http://xtra.fireottplus.com:2052/csp11/localttt77/146601
-#EXTINF:-1,UK : HD BT SPORT 1
-http://xtra.fireottplus.com:2052/csp11/localttt77/146602
-#EXTINF:-1,UK : HD BT SPORT 1 
-http://xtra.fireottplus.com:2052/csp11/localttt77/146603
-#EXTINF:-1,UK : HD BT SPORT 2
-http://xtra.fireottplus.com:2052/csp11/localttt77/146604
-#EXTINF:-1,UK : HD BT SPORT 2 
-http://xtra.fireottplus.com:2052/csp11/localttt77/146605
-#EXTINF:-1,UK : HD BT SPORT 3
-http://xtra.fireottplus.com:2052/csp11/localttt77/146606
-#EXTINF:-1,UK : HD BT SPORT 3 
-http://xtra.fireottplus.com:2052/csp11/localttt77/146607
+#EXTINF:-1,BEIN SPORTS EN 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/53
+#EXTINF:-1,BEIN SPORTS EN 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/64
 
-
+#EXTINF:-1,BEIN SPORTS ENGLISH  3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/463
+#EXTINF:-1,SUPERSPORT PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/306
+#EXTINF:-1,BT SPORTS 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/44
+#EXTINF:-1,BT SPORTS 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/45
+#EXTINF:-1,BT SPORTS 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/266
+#EXTINF:-1,BEIN SPORTS PREMIER 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/8
+#EXTINF:-1,BEIN SPORTS PREMIER 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/9
+#EXTINF:-1,BEIN SPORTS PREMIER 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/10
+#EXTINF:-1,SONY  TEN SPORTS  1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/467
+#EXTINF:-1,SONY TEN SPORTS 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/468
+#EXTINF:-1,SONY TEN SPORTS  3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINTSPORTS/BEINsaertewq/524
