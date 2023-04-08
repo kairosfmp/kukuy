@@ -1,478 +1,488 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Indonesia",ID: ANIMAL PLANET
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157532
-#EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia",ID: ANTV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165072
-#EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Indonesia",ID: AXN
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165079
-#EXTINF:-1 tvg-id="" tvg-name="ID: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="Indonesia",ID: Baby TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157605
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="Indonesia",ID: Bali TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/197962
-#EXTINF:-1 tvg-id="" tvg-name="ID: Balikpapan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="Indonesia",ID: Balikpapan TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/166409
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bandung TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="Indonesia",ID: Bandung TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/166416
-#EXTINF:-1 tvg-id="" tvg-name="ID: Berita Satu" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="Indonesia",ID: Berita Satu
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162513
-#EXTINF:-1 tvg-id="" tvg-name="ID: Berita Satu news" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="Indonesia",ID: Berita Satu news
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/287421
-#EXTINF:-1 tvg-id="" tvg-name="ID: Berita Satu World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="Indonesia",ID: Berita Satu World
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162136
-#EXTINF:-1 tvg-id="" tvg-name="ID: Besmart" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/72c02ddde0fd068592b1e7a6e1aa137f.jfif" group-title="Indonesia",ID: Besmart
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165087
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bloomberg TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="Indonesia",ID: Bloomberg TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157599
-#EXTINF:-1 tvg-id="" tvg-name="ID: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="Indonesia",ID: Boomerang
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165109
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="Indonesia",ID: Cartoon Network
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157593
-#EXTINF:-1 tvg-id="" tvg-name="ID: CNBC Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="Indonesia",ID: CNBC Indonesia
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165062
-#EXTINF:-1 tvg-id="" tvg-name="ID: CNN Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="Indonesia",ID: CNN Indonesia
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162137
-#EXTINF:-1 tvg-id="" tvg-name="ID: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/b9ed140c72f29ede61bcf92dd236fc03.gif" group-title="Indonesia",ID: Crime+ Investigation
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165052
-#EXTINF:-1 tvg-id="" tvg-name="ID: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="Indonesia",ID: Discovery World
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157597
-#EXTINF:-1 tvg-id="" tvg-name="ID: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="Indonesia",ID: Disney Channel
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165075
-#EXTINF:-1 tvg-id="" tvg-name="ID: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="Indonesia",ID: Disney Junior
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162511
-#EXTINF:-1 tvg-id="" tvg-name="ID: FMN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="Indonesia",ID: FMN
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165057
-#EXTINF:-1 tvg-id="" tvg-name="ID: Fox Crime" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5bb07886b4c8a97d8138b57601ce3f4f.png" group-title="Indonesia",ID: Fox Crime
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165076
-#EXTINF:-1 tvg-id="" tvg-name="ID: Fox Life" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="Indonesia",ID: Fox Life
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165083
-#EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="Indonesia",ID: GTV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157578
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Indonesia",ID: HBO
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/197972
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Indonesia",ID: HBO Hits
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/196480
-#EXTINF:-1 tvg-id="" tvg-name="ID: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="Indonesia",ID: History
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162519
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="Indonesia",ID: Hits
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165085
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hits Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Indonesia",ID: Hits Movies
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/221947
-#EXTINF:-1 tvg-id="" tvg-name="ID: I AM Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="Indonesia",ID: I AM Channel
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/287423
-#EXTINF:-1 tvg-id="" tvg-name="ID: IDX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="Indonesia",ID: IDX
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157590
-#EXTINF:-1 tvg-id="" tvg-name="ID: Ie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/634a1f725799280bbeeb992c9d19fb8f.png" group-title="Indonesia",ID: Ie
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157582
-#EXTINF:-1 tvg-id="" tvg-name="ID: iNews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Indonesia",ID: iNews
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157579
+#EXTINF:-1,beIN SPORTS PREMIUM1 SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/72
+#EXTINF:-1,beIN SPORTS PREMIUM2 SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/73
+#EXTINF:-1,beIN SPORTS PREMIUM3 SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/74
+#EXTINF:-1,beIN SPORTS 1SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/75
+#EXTINF:-1,beIN SPORTS 2SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/76
+#EXTINF:-1,beIN SPORTS 3SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/77
+#EXTINF:-1,beIN SPORTS 4SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/78
+#EXTINF:-1,beIN SPORTS 5SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/79
+#EXTINF:-1,beIN SPORTS 6SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/80
+#EXTINF:-1,beIN SPORTS 7SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/81
+#EXTINF:-1,beIN SPORTS PREMIUM1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1201
+#EXTINF:-1,beIN SPORTS PREMIUM2 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1202
+#EXTINF:-1,beIN SPORTS PREMIUM3 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1203
+#EXTINF:-1,beIN SPORTS 1HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1204
+#EXTINF:-1,beIN SPORTS 2HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1205
+#EXTINF:-1,beIN SPORTS 3HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1206
+#EXTINF:-1,beIN SPORTS 4HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1207
+#EXTINF:-1,beIN SPORTS 5HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1208
+#EXTINF:-1,beIN SPORTS 6HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1209
+#EXTINF:-1,beIN SPORTS 7HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1210
+#EXTINF:-1,beIN SPORTS PREMIUM1 FullHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/44
+#EXTINF:-1,beIN SPORTS PREMIUM2 FullHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/45
+#EXTINF:-1,beIN SPORTS PREMIUM3 FullHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/46
+#EXTINF:-1,beIN SPORTS FullHD1
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/47
+#EXTINF:-1,beIN SPORTS FullHD2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/48
+#EXTINF:-1,beIN SPORTS FullHD3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/49
+#EXTINF:-1,beIN SPORTS FullHD4
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/50
+#EXTINF:-1,beIN SPORTS FullHD5
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/51
+#EXTINF:-1,beIN SPORTS FullHD6
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/52
+#EXTINF:-1,beIN SPORTS FullHD7
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/53
+#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/55
+#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/56
+#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/57
+#EXTINF:-1,beIN SPORTS1 H265
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/58
+#EXTINF:-1,beIN SPORTS2 H265
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/59
+#EXTINF:-1,beIN SPORTS3 H265
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/60
+#EXTINF:-1,beIN SPORTS4 H265
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/61
+#EXTINF:-1,beIN SPORTS5 H265
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/62
+#EXTINF:-1,beIN SPORTS6 H265
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/63
+#EXTINF:-1,beIN SPORTS7 H265
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/64
+#EXTINF:-1,beIN SPORTS 1 ENGLISH HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/69
+#EXTINF:-1,beIN SPORTS 2 ENGLISH HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/70
+#EXTINF:-1,beIN SPORTS PREMINUM1 LOW
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/83
+#EXTINF:-1,beIN SPORTS PREMINUM2 LOW
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/84
+#EXTINF:-1,beIN SPORTS PREMINUM 3 LOW
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/85
+#EXTINF:-1,beIN SPORTS 1 LOW
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/86
+#EXTINF:-1,beIN SPORTS 2LOW
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/87
+#EXTINF:-1,beIN SPORTS 3 LOW
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/88
+#EXTINF:-1,beIN SPORTS 4LOW
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/89
+#EXTINF:-1,beIN SPORTS 5LOW
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/90
+#EXTINF:-1,beIN SPORTS 6LOW
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/91
+#EXTINF:-1,beIN SPORTS 7LOW
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/92
+#EXTINF:-1,beIN SPORTS News
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/67
+#EXTINF:-1,beIN SPORTS HD (Global)
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/68
+#EXTINF:-1,Duhok Sports HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/66
+#EXTINF:-1,Radio Bein 1 PR
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/93
+#EXTINF:-1,Radio Bein 2 PR
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/94
+#EXTINF:-1,Radio Bein 1
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/95
+#EXTINF:-1,Radio Bein 3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/96
+#EXTINF:-1,Radio Bein 4
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/97
+#EXTINF:-1,Radio Bein 5
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/98
+#EXTINF:-1,Radio Bein 6
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/99
+#EXTINF:-1,Radio Bein 7
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/100
+#EXTINF:-1,Smart Sport
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/653
+#EXTINF:-1,AR: AD Sport 1
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/654
+#EXTINF:-1,AR: AD Sport 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/655
+#EXTINF:-1,AR: AD Sport 3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/656
+#EXTINF:-1,AR: AD Sport 4
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/657
+#EXTINF:-1,AR: SSC Sport 1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/658
+#EXTINF:-1,AR: SSC Sport 2 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/659
+#EXTINF:-1,AR: SSC Sport 3 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/660
+#EXTINF:-1,AR: SSC Sport 4 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/661
+#EXTINF:-1,AR: SSC Sport 5 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/662
+#EXTINF:-1,Ar: SSC Sport 6 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/663
+#EXTINF:-1,AR: SSC Sport 7 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/664
+#EXTINF:-1,AR: KSA Sports 1
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/665
+#EXTINF:-1,AR: KSA Sports 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/666
+#EXTINF:-1,AR: KSA SPORTS 3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/667
+#EXTINF:-1,AR: ksa Sport 4
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/668
+#EXTINF:-1,AR: Sharjah Sports TV FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/669
+#EXTINF:-1,AR: Alkass 1
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/670
+#EXTINF:-1,AR: Alkass 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/671
+#EXTINF:-1,AR: Alkass 3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/672
+#EXTINF:-1,AR: Alkass 4
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/673
+#EXTINF:-1,IR: Varzesh
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/674
+#EXTINF:-1,Arena Sport 2 (Serb)
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/675
+#EXTINF:-1,Arena Sport 3 (Serb
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/676
+#EXTINF:-1,Arena Sport 4 (Serb
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/677
+#EXTINF:-1,Arena Sport 5 (Serb)
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/678
+#EXTINF:-1,Arena Sport 1 (Serb)
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/679
+#EXTINF:-1,MATCH 1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/680
+#EXTINF:-1,TRT Sport HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/681
+#EXTINF:-1,ZA: SuperSport Action HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/684
+#EXTINF:-1,ZA: SuperSport Cricket HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/685
+#EXTINF:-1,ZA: SuperSport Football HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/686
+#EXTINF:-1,ZA: SuperSport LaLiga
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/687
+#EXTINF:-1,ZA: SuperSport Golf FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/688
+#EXTINF:-1,ZA: SuperSport Grandstand FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/689
+#EXTINF:-1,ZA: SuperSport Premier League HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/690
+#EXTINF:-1,ZA: SuperSport PSL HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/691
+#EXTINF:-1,ZA: SuperSport Variety 3 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/693
+#EXTINF:-1,ARGENTINA: TNT SPORT
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/694
+#EXTINF:-1,POL: CANAL_SPORT
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/696
+#EXTINF:-1,AL: TRING_SPORT_1HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/697
+#EXTINF:-1,AL: TRING_SPORT_2HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/698
+#EXTINF:-1,AL: TRING_SPORT_3HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/699
+#EXTINF:-1,AL: TRING_SPORT_4HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/700
+#EXTINF:-1,AL:SUPER SPORT 1 NEWS
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/701
+#EXTINF:-1,AL:SUPER SPORT 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/702
+#EXTINF:-1,AL:SUPER SPORT 3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/703
+#EXTINF:-1,AL:SUPER SPORT 4
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/704
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/706
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/707
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/708
+#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/709
+#EXTINF:-1,|FR| CANAL SPORT FIHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/719
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/755
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/756
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/757
+#EXTINF:-1,|FR| BEIN MAX 4 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/758
+#EXTINF:-1,|FR| BEIN MAX 5 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/759
+#EXTINF:-1,|FR| BEIN MAX 7 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/760
+#EXTINF:-1,|FR| BEIN MAX 8 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/761
+#EXTINF:-1,|FR| BEIN MAX 9 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/762
+#EXTINF:-1,|FR| BEIN MAX 10 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/763
+#EXTINF:-1,|FR| BEIN MAX 6 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/764
+#EXTINF:-1,|FR| FOOT+ 24/24
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/768
+#EXTINF:-1,|FR| L'EQUIPE 21 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/769
+#EXTINF:-1,|FR| CANAL+  SPORT HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/787
+#EXTINF:-1,FR: Amazon Prime Video 1 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/899
+#EXTINF:-1,FR: Amazon Prime Video 2 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/900
+#EXTINF:-1,FR: Amazon Prime Video 3 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/901
+#EXTINF:-1,FR: Amazon Prime Video 4 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/902
+#EXTINF:-1,FR: Amazon Prime Video 5 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/903
+#EXTINF:-1,FR: Amazon Prime Video 6 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/904
+#EXTINF:-1,FR: Amazon Prime Video 7 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/905
+#EXTINF:-1,FR: Amazon Prime Video 8 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/906
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/907
+#EXTINF:-1,MOVISTAR LaLiga 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/908
+#EXTINF:-1,|ES| BEIN LIGA 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/909
+#EXTINF:-1,|ES| BEIN LIGA 3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/910
+#EXTINF:-1,US: TSN 1
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/915
+#EXTINF:-1,US:  TSN 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/916
+#EXTINF:-1,US: TSN 3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/917
+#EXTINF:-1,US: TSN 4
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/918
+#EXTINF:-1,US: TSN 5
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/919
+#EXTINF:-1,US: ESPN HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/920
+#EXTINF:-1,US: ESPN 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/921
+#EXTINF:-1,US: ESPN U HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/922
+#EXTINF:-1,US: Bein Sport USA
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/923
+#EXTINF:-1,US: beIN Sports Ñ
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/924
+#EXTINF:-1,US: ESPN
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/925
+#EXTINF:-1,US: ESPN 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/926
+#EXTINF:-1,US: ESPN NEWS
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/932
+#EXTINF:-1,US: ESPN U
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/933
+#EXTINF:-1,US: Eleven Sports US
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/934
+#EXTINF:-1,US: FOX SPORTS 1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/935
+#EXTINF:-1,US: FOX SPORTS 2 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/936
+#EXTINF:-1,US: Fox Sports Arizona
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/943
+#EXTINF:-1,US: Fox Sports Detroit
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/944
+#EXTINF:-1,US: Fox Sports Florida
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/945
+#EXTINF:-1,US: Fox Sport 2 4K+
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/949
+#EXTINF:-1,US: Fox  Sport 1 4K+
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/952
+#EXTINF:-1,US: Fox Sports San Diego
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/954
+#EXTINF:-1,US: NBA TV
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/961
+#EXTINF:-1,US: NBC Sports Bay Area Plus
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/963
+#EXTINF:-1,US: NBC Sports Boston
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/964
+#EXTINF:-1,US: NBC Sports California Plus
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/965
+#EXTINF:-1,US: NBC Sports Chicago Plus
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/966
+#EXTINF:-1,US: NBC Sports Nowrthwest
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/967
+#EXTINF:-1,US: NBC Sports Philadelphia
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/968
+#EXTINF:-1,US: NBC Sports Washington Plus
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/969
+#EXTINF:-1,BG: ELEVEN SPORTS 1 BELGIUM (FR) HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/983
+#EXTINF:-1,BG: ELEVEN SPORTS 1 BELGIUM (NL) HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/984
+#EXTINF:-1,BG: ELEVEN SPORTS 2 BELGIUM (NL) HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/985
+#EXTINF:-1,CA: SPORTSNET 1 ʜᴅ
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/986
+#EXTINF:-1,CA: SPORTSNET 360 ʜᴅ
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/987
+#EXTINF:-1,Latino: Fox Sports 1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/989
+#EXTINF:-1,Latino: Fox Sports 2 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/990
+#EXTINF:-1,DE: DAZN 1 Bar FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1003
+#EXTINF:-1,DE: DAZN 1 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1004
+#EXTINF:-1,DE: DAZN 2 Bar FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1005
+#EXTINF:-1,DE: DAZN 2 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1006
+#EXTINF:-1,ES: MOVISTAR Liga Campeones HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1092
+#EXTINF:-1,ES: Movistar  Deportes 1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1101
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1104
+#EXTINF:-1,ES: REAL MADRID TV HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1134
+#EXTINF:-1,LIGA TV (ES)
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1140
+#EXTINF:-1,LALIGA TV BAR (ES)
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1141
+#EXTINF:-1,LIGA 123 HD (ES)
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1142
+#EXTINF:-1,LIGA CAMPEONES HD (ES)
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1143
+#EXTINF:-1,ES: DAZN 1
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1147
+#EXTINF:-1,ES: DAZN 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1148
+#EXTINF:-1,|ES| BEIN SPORTS ESPANAA FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1171
+#EXTINF:-1,ES: M. Deportes 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1173
+#EXTINF:-1,ES: ESPN HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1175
+#EXTINF:-1,ES DAZN F1 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1181
+#EXTINF:-1,ES DAZN 4 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1182
+#EXTINF:-1,ES: DAZN 3 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1183
+#EXTINF:-1,ES: M. LALIGA 2 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1185
+#EXTINF:-1,ES: ESPN Deportes
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1186
+#EXTINF:-1,ZA: SuperSport LaLiga FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1187
+#EXTINF:-1,ES: ESPN 2 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1190
+#EXTINF:-1,ES:ESPN 3 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1191
+#EXTINF:-1,ES:ESPN Deportes HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1192
+#EXTINF:-1,ESPN HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1193
+#EXTINF:-1,ESPN News HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1194
+#EXTINF:-1,Sky Sports Liga Española HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1195
+#EXTINF:-1,ES: FOX SPORTS 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1197
+#EXTINF:-1,ES: FOX SPORTS 3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1198
+#EXTINF:-1,US: Bein Sports USA HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1199
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1211
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1212
+#EXTINF:-1,UK: BT SPORT 1
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1213
+#EXTINF:-1,UK: BT SPORT 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1214
+#EXTINF:-1,UK: BT SPORT 3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1215
+#EXTINF:-1,AFC Global SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1222
+#EXTINF:-1,Bein AFC1 SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1223
+#EXTINF:-1,Bein AFC2 SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1224
+#EXTINF:-1,Bein AFC3 SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1225
+#EXTINF:-1,beIN Sport AFC
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1226
+#EXTINF:-1,beIN Sport AFC 1
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1227
+#EXTINF:-1,beIN Sport AFC 2
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1228
+#EXTINF:-1,beIN Sport AFC 3
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1229
+#EXTINF:-1,beIN sports max 1 4K 
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1230
+#EXTINF:-1,beIN sport max 1 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1231
+#EXTINF:-1,beIN sports max 1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1232
+#EXTINF:-1,beIN sports max 1 SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1233
+#EXTINF:-1,beIN sports max 2 4K
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1234
+#EXTINF:-1,beIN sports max 2 FHD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1235
+#EXTINF:-1,beIN sports max 2 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1236
+#EXTINF:-1,beIN sports max 2 SD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1237
+#EXTINF:-1,beIN sport max 3 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1238
+#EXTINF:-1,beIN sport max 4 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1239
+#EXTINF:-1,beIN sport max 5 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1240
+#EXTINF:-1,beIN sport max 6 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1241
+#EXTINF:-1,LOCAL SS beIN Max 1 4k
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1242
+#EXTINF:-1,LOCAL SS beIN Max 1 HD
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1243
+#EXTINF:-1,LOCAL SS beIN Max 2 4k
+http://fxorexworld.com:8080/4avthz1mnh/RptmGbtRHf/1244
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Jak TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="Indonesia",ID: Jak TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157601
-#EXTINF:-1 tvg-id="" tvg-name="ID: Jakarta Globe News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4dd6757aab14f77f848da99155b0d80.png" group-title="Indonesia",ID: Jakarta Globe News
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/166399
-#EXTINF:-1 tvg-id="" tvg-name="ID: Jambi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/90e2c8f15ca01f83dbc470a4ac534f9e.png" group-title="Indonesia",ID: Jambi TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/275985
-#EXTINF:-1 tvg-id="" tvg-name="ID: Kids TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="Indonesia",ID: Kids TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162505
-#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="Indonesia",ID: Kompas TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165060
-#EXTINF:-1 tvg-id="" tvg-name="ID: Lifestyle & Fashion" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="Indonesia",ID: Lifestyle & Fashion
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157592
-#EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="Indonesia",ID: Metro TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165059
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="Indonesia",ID: MNC News
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165058
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="Indonesia",ID: MNC TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165054
+#EXTINF:-1,beIN 1 ENG
+http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/54470.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Music TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="Indonesia",ID: Music TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165108
-#EXTINF:-1 tvg-id="" tvg-name="ID: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Indonesia",ID: NAT GEO
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165094
-#EXTINF:-1 tvg-id="" tvg-name="ID: NET" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="Indonesia",ID: NET
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/80292
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="Indonesia",ID: Nick Junior
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165107
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="Indonesia",ID: Nusantara TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/166410
-#EXTINF:-1 tvg-id="" tvg-name="ID: Padang TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/eb14737d742919bfde6ea9747298a305.jpeg" group-title="Indonesia",ID: Padang TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162140
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rajawali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="Indonesia",ID: Rajawali TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/196457
-#EXTINF:-1 tvg-id="" tvg-name="ID: RB TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/3e57586b1522d66dab2defcfc42b7bdc.png" group-title="Indonesia",ID: RB TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/266810
-#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Indonesia",ID: RCTI
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157591
-#EXTINF:-1 tvg-id="" tvg-name="ID: Reformed 21" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e86011037fb027f35b51ab4a38731e7b.png" group-title="Indonesia",ID: Reformed 21
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/174574
-#EXTINF:-1 tvg-id="" tvg-name="ID: RRI Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="Indonesia",ID: RRI Net
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/266816
-#EXTINF:-1 tvg-id="" tvg-name="ID: Sony One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="Indonesia",ID: Sony One
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/165077
+#EXTINF:-1,beIN 2 ENG
+http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/54469.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Thrill" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Indonesia",ID: Thrill
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157580
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="Indonesia",ID: Trans 7
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162502
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Indonesia",ID: Trans TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162503
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="Indonesia",ID: TV 9 Nusantara
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162509
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="Indonesia",ID: TV One
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/296214
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Indonesia",ID: TVN Movies
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157596
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="Indonesia",ID: TVRI
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/162504
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Indonesia",ID: TVRI Sport
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/166686
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ba768bd70edc3098433bdfaeacc616e6.jfif" group-title="Indonesia",ID: TVRI World
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/295291
-#EXTINF:-1 tvg-id="" tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="Indonesia",ID: Warner TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157594
-#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Indonesia",ID: Zee Bioskop
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157584
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pix" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4e7fba8288cf6f11b5d2027eb642d3c3.png" group-title="Indonesia",IN: Sony Pix
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/49539
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",ITV UK
-http://sonoiptv.xyz:8080/worldcupHYghytch/zdwAvNZYJ3/24926
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sky Sports Premier League1
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/diiefbxx.ss.m3u8
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Premium 1
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Premium 1
-http://ziyadiptv.net:80/05519648407TT/05519648407/27501
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 1
-http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN PREMIUM 01 Low 512
-http://4k.dragonprox.live:8080/MYSLwbpJfB/WMd2PAF8Qw/51829
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN PREMIUM 03 SD
-http://4k.dragonprox.live:8080/MYSLwbpJfB/WMd2PAF8Qw/92763
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Premium 3
-http://ziyadiptv.net:80/05519648407TT/05519648407/18960
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",bein : beIN Sports Premium 3 HD
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2775
-
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN PREMIUM 02 Low 512
-http://4k.dragonprox.live:8080/MYSLwbpJfB/WMd2PAF8Qw/51828
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports Premium 2 HD
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Premium 2
-http://ziyadiptv.net:80/05519648407TT/05519648407/18978
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 2
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044189
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png" group-title="UK ➾ Sports",UK: Sky Sports Action
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/268
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="UK ➾ Sports",UK: Sky Sports Arena
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/267
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="UK ➾ Sports",UK: Sky Sports Cricket
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/269
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="UK ➾ Sports",UK: Sky Sports F1
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/265
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png" group-title="UK ➾ Football",UK: Sky Sports Football
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/266
-#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="UK ➾ Sports",UK: Sky Sports Golf
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/264
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="UK ➾ Sports",UK: Sky Sports Main Event
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/283053
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="UK ➾ Sports",UK: Sky Sports Mix
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/261
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="UK ➾ Sports",UK: Sky Sports Premier League
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/263
-
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="UK ➾ Sports",UK: BT Sport 1
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/270
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="UK ➾ Sports",UK: BT Sport 2
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/273
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="UK ➾ Sports",UK: BT Sport 3
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/271
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" group-title="UK ➾ Sports",UK: BT Sport ESPN
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1124
-#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="UK ➾ Sports",UK: MUTV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1102
-#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d22efc9e80e82953c3f1ee26bb699e5.png" group-title="UK ➾ Kids",UK: Cartoon Network
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/720
-#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK: Cartoonito" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c8f9b130d1457911891a0999b0b5282a.png" group-title="UK ➾ Kids",UK: Cartoonito
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1546
-#EXTINF:-1 tvg-id="" tvg-name="UK: CBBC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6221f70a946e65ab046856dea3fb44cf.png" group-title="UK ➾ Kids",UK: CBBC
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/695
-#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: CBeebies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/705c9936bc50580b1ba85b2c77896bfa.png" group-title="UK ➾ Kids",UK: CBeebies
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/475
-#EXTINF:-1 tvg-id="" tvg-name="UK: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b81b699ab1552f3c15dea79e34e5f017.png" group-title="UK ➾ Kids",UK: Disney Channel
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1113
-#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-name="UK: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="UK ➾ Kids",UK: Disney Junior
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1112
-#EXTINF:-1 tvg-id="" tvg-name="UK: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06a89cbfbaf2158279d67c8a597bb740.png" group-title="UK ➾ Kids",UK: Disney XD
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1111
-#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="UK: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/282cf1ec1c6d0a176440c15caa844e60.png" group-title="UK ➾ Kids",UK: Nick Junior
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1098
-#EXTINF:-1 tvg-id="" tvg-name="UK: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/47718e36a9a5c42f3d005fcd9f3d94be.png" group-title="UK ➾ Kids",UK: nickelodeon
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/281864
-
-#EXTINF:-1 tvg-id="bt.sport.1.gb" tvg-name="UK014:BT Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK014BTSport1.png" group-title="UK Sports",UK014:BT Sport 1 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2943
-#EXTINF:-1 tvg-id="bt.sport.2.gb" tvg-name="UK015:BT Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK015BTSport2.png" group-title="UK Sports",UK015:BT Sport 2 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2942
-#EXTINF:-1 tvg-id="bt.sport.3.gb" tvg-name="UK016:BT Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK016BTSport3.png" group-title="UK Sports",UK016:BT Sport 3 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2941
-#EXTINF:-1 tvg-id="bt.sport.x5.gb" tvg-name="UK112:BT Sports 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK112" group-title="UK Sports",UK112:BT Sports 5 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/28947
-#EXTINF:-1 tvg-id="bt.sport.x4.gb" tvg-name="UK113:BT Sports 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK113" group-title="UK Sports",UK113:BT Sports 4 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/28946
-#EXTINF:-1 tvg-id="bt.sport.espn.gb" tvg-name="UK017:BT Sport ESPN FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK017BTSportESPN.png" group-title="UK Sports",UK017:BT Sport ESPN FHD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2940
-#EXTINF:-1 tvg-id="sky.sports.racing.gb" tvg-name="UK318:Sky Sports Racing FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK318SkySportsRacingFHD.png" group-title="UK Sports",UK318:Sky Sports Racing FHD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/28741
-#EXTINF:-1 tvg-id="sky.sports.premier.league.gb" tvg-name="UK117:Sky Sports Premier League SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK117SkySportsPremierLeagueSD.png" group-title="UK Sports",UK117:Sky Sports Premier League SD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/28942
-#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK087SkySportsFootball.png" group-title="UK Sports",UK087:Sky Sports Football HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2870
-#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK081:Sky Sports F1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK081SkySportsF1.png" group-title="UK Sports",UK081:Sky Sports F1 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2876
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK080SkySportsPremierLeague.png" group-title="UK Sports",UK080:Sky Sports PremierLeague HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2877
-#EXTINF:-1 tvg-id="sky.sports.mix.gb" tvg-name="UK075:Sky Sports Mix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK075SkySportsMix.png" group-title="UK Sports",UK075:Sky Sports Mix FHD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2882
-#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK076:Sky Sports MainEvent HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK076SkySportsMainEvent.png" group-title="UK Sports",UK076:Sky Sports MainEvent HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2881
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK077:Sky Sports Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK077SkySportsAction.png" group-title="UK Sports",UK077:Sky Sports Action HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2880
-#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK055:Sky Sports Arena HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK055SkySportsArena.png" group-title="UK Sports",UK055:Sky Sports Arena HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2902
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="UK141:BeIN Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK141beINSports1.png" group-title="UK Sports",UK141:BeIN Sports 1 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/28918
-#EXTINF:-1 tvg-id="" tvg-name="UK142:BeIN Sports 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK142beINSports2.png" group-title="UK Sports",UK142:BeIN Sports 2 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/28917
-#EXTINF:-1 tvg-id="" tvg-name="UK143:BeIN Sports 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK143beINSports3.png" group-title="UK Sports",UK143:BeIN Sports 4 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/28916
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK051:ITV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="UK Sports",UK051:ITV 1 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2906
-#EXTINF:-1 tvg-id="itv2.gb" tvg-name="UK052:ITV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK052ITV2.png" group-title="UK Sports",UK052:ITV 2 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2905
-#EXTINF:-1 tvg-id="itv3.gb" tvg-name="UK053:ITV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK053ITV3.png" group-title="UK Sports",UK053:ITV 3 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2904
-#EXTINF:-1 tvg-id="itv4.gb" tvg-name="UK054:ITV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK054ITV4.png" group-title="UK Sports",UK054:ITV 4 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/2903
-#EXTINF:-1 tvg-id="citv.gb" tvg-name="UK219:C ITV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK219CITVHD.png" group-title="UK Sports",UK219:C ITV HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/28840
-
-#EXTINF:-1 tvg-id="espnd.us" tvg-name="US895:ESPN +" tvg-logo="" group-title="USA Sports",US895:ESPN +
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/60006
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="US031:ESPN-2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="USA Sports",US031:ESPN-2
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/3137
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US032:ESPN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN-HD.png" group-title="USA Sports",US032:ESPN-HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/3136
-#EXTINF:-1 tvg-id="espnews.us" tvg-name="US033:ESPN-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US033ESPN-News.png" group-title="USA Sports",US033:ESPN-News
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/3135
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="US034:ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="USA Sports",US034:ESPN-U
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/3134
-#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="US009:BeIN Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US009Bein-Sports.png" group-title="USA Sports",US009:BeIN Sports 1 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/3159
-
-#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL106:ESPN 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL106ESPN1FHD.png" group-title="NL Sports",NL106:ESPN 1 FHD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/31425
-#EXTINF:-1 tvg-id="espn.2.nl" tvg-name="NL107:ESPN 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL107ESPN2FHD.png" group-title="NL Sports",NL107:ESPN 2 FHD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/31424
-#EXTINF:-1 tvg-id="espn.3.nl" tvg-name="NL108:ESPN 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL108ESPN3FHD.png" group-title="NL Sports",NL108:ESPN 3 FHD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/31423
-#EXTINF:-1 tvg-id="espn.4.nl" tvg-name="NL109:ESPN 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL109ESPN4HD.png" group-title="NL Sports",NL109:ESPN 4 HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/31422
-#EXTINF:-1 tvg-id="espn.5.nl" tvg-name="NL110:ESPN 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/NL/NL110ESPN5FHD.png" group-title="NL Sports",NL110:ESPN 5 FHD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/31421
-
-#EXTINF:-1 tvg-id="" tvg-name="US: NBA League Pass 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ce0e4f02e616c1ac3a6a94b8b322669.png" group-title="NBA",US: NBA League Pass 1
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/198961
-#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US: NBA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c7a9e9894c533532f081256e9aeb556c.png" group-title="NBA",US: NBA TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/762
-#EXTINF:-1 group-title="NBA",PT: Sport TV NBA
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/130957
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="IT105:Sky Sport NBA HD" tvg-logo="" group-title="NBA",IT105:Sky Sport NBA HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/28457
-#EXTINF:-1 tvg-id="nba.canada.ca" tvg-name="CA032:NBA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA032NBACA.png" group-title="NBA",CA032:NBA HD
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/3037
-#EXTINF:-1 tvg-id="nba.usa.us" tvg-name="US060:NBA-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US060NBA-TV.png" group-title="NBA",US060:NBA-TV
-http://mxu03.wanicelife.com:8880/12ms160086/67119493/3108
-#EXTINF:-1 group-title="NBA",QA: beIN Sports NBA
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/15962
-#EXTINF:-1 group-title="NBA",PT: SPORT TV NBA
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051
-
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Action
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/212379
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Arena
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/104049
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Cricket
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/16221
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports F1
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/16224
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Football
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/104048
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Golf
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/212380
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Main Event
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/104039
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Mix
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/35145
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports News
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/104040
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports NFL
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/212381
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Premier League
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/16209
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="SportsMIX",UK: Sky Sports Premier League
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/263
-#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="SportsMIX",UK: MUTV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/1102
-
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Premier League
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/263
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Main Event
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283053
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Mix
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/261
-#EXTINF:-1 group-title="SportsMIX",UK: Sky Sports Football
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266
-#EXTINF:-1 group-title="SportsMIX",UK: BT Sport 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/270
-#EXTINF:-1 group-title="SportsMIX",UK: BT Sport 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/273
-#EXTINF:-1 group-title="SportsMIX",UK: BT Sport 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/271
-#EXTINF:-1 group-title="SportsMIX",UK: BT Sport ESPN
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1124
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports English 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/110
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports English 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/111
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports English 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267769
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports Max 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296991
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports NBA
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/15962
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports News
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1266
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports Premium 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/109
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports Premium 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280145
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports Premium 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280249
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports Xtra 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290037
-#EXTINF:-1 group-title="SportsMIX",QA: beIN Sports Xtra 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283294
-
-#EXTINF:-1 group-title="SportsMIX",UK: BT Sport 1
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/104006
-#EXTINF:-1 group-title="SportsMIX",UK: BT Sport 2
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/16231
-#EXTINF:-1 group-title="SportsMIX",UK: BT Sport 3
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/16232
-#EXTINF:-1 group-title="SportsMIX",UK: BT Sport ESPN
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/16238
-#EXTINF:-1 group-title="SportsMIX",NL: ESPN HD
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/76357
-#EXTINF:-1 group-title="SportsMIX",NL: ESPN 2 HD
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/76358
-#EXTINF:-1 group-title="SportsMIX",NL: ESPN 3 HD
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/76359
-#EXTINF:-1 group-title="SportsMIX",NL: ESPN 4 HD
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/76360
-
-#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports 1 HD
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224093
-#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports 2 HD
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224095
-#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports 3 HD
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224097
-#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports 4 HD
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224099
-#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports  5 HD
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224101
-#EXTINF:-1 group-title="SportsMIX",PT: Eleven Sports 6 HD
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/224103
-#EXTINF:-1 group-title="SportsMIX",PT: Sport TV NBA
-http://sharkytv.com:2082/worldiptv/6dW2a(kl8Jb93/130957
-
-#EXTINF:-1 group-title="SportsMIX",LA: ESPN
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5779
-#EXTINF:-1 group-title="SportsMIX",LA: ESPN 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3031
-#EXTINF:-1 group-title="SportsMIX",LA: ESPN 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3032
-#EXTINF:-1 group-title="SportsMIX",LA: ESPN Deportes
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/6446
-#EXTINF:-1 group-title="SportsMIX",LA: ESPN Extra
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/285105
-#EXTINF:-1 group-title="SportsMIX",LA: FOX SPORTS 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/40840
-#EXTINF:-1 group-title="SportsMIX",LA: FOX SPORTS 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3042
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Variety 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11633
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Variety 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11634
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Variety 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11635
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Variety 4
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11636
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Action
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/194354
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Blitz
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281536
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Football
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/38575
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Grandstand
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/194353
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport LaLiga
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/194358
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Maximo 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/38572
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Motorsport
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11638
-#EXTINF:-1 group-title="SportsMIX",ZA: SuperSport Premier League
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/11642
-
-#EXTINF:-1 group-title="SportsMIX",IN: Sony Ten 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16622
-#EXTINF:-1 group-title="SportsMIX",IN: Sony Ten 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16621
-#EXTINF:-1 group-title="SportsMIX",IN: Sony Ten 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/56191
-#EXTINF:-1 group-title="SportsMIX",IN: Star Sports 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3630
-#EXTINF:-1 group-title="SportsMIX",IN: Star Sports 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3631
-#EXTINF:-1 group-title="SportsMIX",IN: Star Sports 3
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/62584
-#EXTINF:-1 group-title="SportsMIX",IN: Star Sports Select 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82628
-#EXTINF:-1 group-title="SportsMIX",IN: Star Sports Select 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16619
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="SportsMIX",IN: Sony Ten 1
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/16622
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="SportsMIX",IN: Sony Ten 2
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/16621
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="SportsMIX",IN: Sony Ten 3
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/56191
-
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a53b014f324eb9850b02cefe0b29e68a.png" group-title="SportsMIX",US: ESPN
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/747
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bb7f0a14bf41b0d0cb5a524a7ef46dd6.png" group-title="SportsMIX",US: ESPN 2
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/41918
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg" group-title="SportsMIX",US: ESPN 3
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/14816
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US: ESPN News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/563035a6fbe029b233bb53cdf2d3cbac.png" group-title="SportsMIX",US: ESPN News
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/2312
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="US: ESPNU" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15094ba088f2e48b88e81236d6336575.png" group-title="SportsMIX",US: ESPNU
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/2311
-#EXTINF:-1 tvg-id="" tvg-name="US: NBA League Pass 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ce0e4f02e616c1ac3a6a94b8b322669.png" group-title="SportsMIX",US: NBA League Pass 1
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/198961
-#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US: NBA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c7a9e9894c533532f081256e9aeb556c.png" group-title="SportsMIX",US: NBA TV
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/762
+#EXTINF:-1,beIN 3 ENG
+http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/54471.ts
