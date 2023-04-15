@@ -1,215 +1,134 @@
 #EXTM3U
-#EXTINF:-1,beIN SPORTS PREMIUM1 HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1201
-#EXTINF:-1,beIN SPORTS PREMIUM2 HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1202
-#EXTINF:-1,beIN SPORTS PREMIUM3 HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1203
-#EXTINF:-1,beIN SPORTS PREMIUM1 SD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/72
-#EXTINF:-1,beIN SPORTS PREMIUM2 SD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/73
-#EXTINF:-1,beIN SPORTS PREMIUM3 SD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/74
-#EXTINF:-1,beIN SPORTS PREMIUM1 FullHD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/44
-#EXTINF:-1,beIN SPORTS PREMIUM2 FullHD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/45
-#EXTINF:-1,beIN SPORTS PREMIUM3 FullHD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/46
-#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/55
-#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/56
-#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/57
-#EXTINF:-1,beIN SPORTS PREMINUM1 LOW
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/83
-#EXTINF:-1,beIN SPORTS PREMINUM2 LOW
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/84
-#EXTINF:-1,beIN SPORTS PREMINUM 3 LOW
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/85
-#EXTINF:-1,beIN SPORTS 1SD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/75
-#EXTINF:-1,beIN SPORTS 2SD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/76
-#EXTINF:-1,beIN SPORTS 3SD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/77
-#EXTINF:-1,beIN SPORTS 4SD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/78
-#EXTINF:-1,beIN SPORTS 5SD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/79
-#EXTINF:-1,beIN SPORTS 6SD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/80
-#EXTINF:-1,beIN SPORTS 7SD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/81
-#EXTINF:-1,beIN SPORTS 1HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1204
-#EXTINF:-1,beIN SPORTS 2HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1205
-#EXTINF:-1,beIN SPORTS 3HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1206
-#EXTINF:-1,beIN SPORTS 4HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1207
-#EXTINF:-1,beIN SPORTS 5HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1208
-#EXTINF:-1,beIN SPORTS 6HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1209
-#EXTINF:-1,beIN SPORTS 7HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1210
-#EXTINF:-1,beIN SPORTS FullHD1
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/47
-#EXTINF:-1,beIN SPORTS FullHD2
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/48
-#EXTINF:-1,beIN SPORTS FullHD3
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/49
-#EXTINF:-1,beIN SPORTS FullHD4
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/50
-#EXTINF:-1,beIN SPORTS FullHD5
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/51
-#EXTINF:-1,beIN SPORTS FullHD6
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/52
-#EXTINF:-1,beIN SPORTS FullHD7
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/53
-#EXTINF:-1,beIN SPORTS1 H265
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/58
-#EXTINF:-1,beIN SPORTS2 H265
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/59
-#EXTINF:-1,beIN SPORTS3 H265
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/60
-#EXTINF:-1,beIN SPORTS4 H265
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/61
-#EXTINF:-1,beIN SPORTS5 H265
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/62
-#EXTINF:-1,beIN SPORTS6 H265
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/63
-#EXTINF:-1,beIN SPORTS7 H265
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/64
-#EXTINF:-1,beIN SPORTS 1 ENGLISH HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/69
-#EXTINF:-1,beIN SPORTS 2 ENGLISH HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/70
-#EXTINF:-1,beIN SPORTS 1 LOW
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/86
-#EXTINF:-1,beIN SPORTS 2LOW
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/87
-#EXTINF:-1,beIN SPORTS 3 LOW
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/88
-#EXTINF:-1,beIN SPORTS 4LOW
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/89
-#EXTINF:-1,beIN SPORTS 5LOW
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/90
-#EXTINF:-1,beIN SPORTS 6LOW
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/91
-#EXTINF:-1,beIN SPORTS 7LOW
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/92
-#EXTINF:-1,beIN SPORTS News
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/67
-#EXTINF:-1,beIN SPORTS HD (Global)
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/68
+#EXTINF:-1,AR : HD BEIN SPORTS NBA 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/38151
+#EXTINF:-1,beIN Sports NBA H.265
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295921
+#EXTINF:-1,beIN Sports NBA FHD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295922
+#EXTINF:-1,beIN Sports NBA HD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295923
+#EXTINF:-1,TR : HD NBA 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/214494
+#EXTINF:-1,NL : FHD ESPN 1 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96085
+#EXTINF:-1,NL : FHD ESPN 2 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96086
+#EXTINF:-1,NL : FHD ESPN 3 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96087
+#EXTINF:-1,NL : FHD ESPN 4 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96088
 
-#EXTINF:-1,ZA: SuperSport Action HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/684
-#EXTINF:-1,ZA: SuperSport Cricket HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/685
-#EXTINF:-1,ZA: SuperSport Football HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/686
-#EXTINF:-1,ZA: SuperSport LaLiga
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/687
-#EXTINF:-1,ZA: SuperSport Golf FHD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/688
-#EXTINF:-1,ZA: SuperSport Grandstand FHD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/689
-#EXTINF:-1,ZA: SuperSport Premier League HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/690
-#EXTINF:-1,ZA: SuperSport PSL HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/691
-#EXTINF:-1,ZA: SuperSport Variety 3 HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/693
-#EXTINF:-1,AL:SUPER SPORT 1 NEWS
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/701
-#EXTINF:-1,AL:SUPER SPORT 2
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/702
-#EXTINF:-1,AL:SUPER SPORT 3
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/703
-#EXTINF:-1,AL:SUPER SPORT 4
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/704
-#EXTINF:-1,US: TSN 1
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/915
-#EXTINF:-1,US: TSN 2
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/916
-#EXTINF:-1,US: TSN 3
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/917
-#EXTINF:-1,US: TSN 4
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/918
-#EXTINF:-1,US: TSN 5
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/919
-#EXTINF:-1,US: ESPN HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/920
-#EXTINF:-1,US: ESPN 2
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/921
-#EXTINF:-1,US: ESPN U HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/922
-#EXTINF:-1,US: Bein Sport USA
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/923
-#EXTINF:-1,US: beIN Sports Ñ
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/924
-#EXTINF:-1,US: ESPN
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/925
-#EXTINF:-1,US: ESPN 2
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/926
-#EXTINF:-1,US: ESPN NEWS
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/932
-#EXTINF:-1,US: ESPN U
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/933
-#EXTINF:-1,US: Eleven Sports US
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/934
-#EXTINF:-1,US: FOX SPORTS 1 HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/935
-#EXTINF:-1,US: FOX SPORTS 2 HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/936
-#EXTINF:-1,US: Fox Sports Arizona
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/943
-#EXTINF:-1,US: Fox Sports Detroit
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/944
-#EXTINF:-1,US: Fox Sports Florida
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/945
-#EXTINF:-1,US: Fox Sport 2 4K+
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/949
-#EXTINF:-1,US: Fox  Sport 1 4K+
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/952
-#EXTINF:-1,US: Fox Sports San Diego
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/954
-#EXTINF:-1,US: NBA TV
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/961
-#EXTINF:-1,US: NBC Sports Bay Area Plus
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/963
-#EXTINF:-1,US: NBC Sports Boston
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/964
-#EXTINF:-1,US: NBC Sports California Plus
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/965
-#EXTINF:-1,US: NBC Sports Chicago Plus
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/966
-#EXTINF:-1,US: NBC Sports Nowrthwest
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/967
-#EXTINF:-1,US: NBC Sports Philadelphia
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/968
-#EXTINF:-1,US: NBC Sports Washington Plus
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/969
-#EXTINF:-1,ESPN HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1193
-#EXTINF:-1,US: Bein Sports USA HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1199
-#EXTINF:-1,beIN Sport XTRA 1 HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1211
-#EXTINF:-1,beIN Sport XTRA 2 HD
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1212
-#EXTINF:-1,UK: BT SPORT 1
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1213
-#EXTINF:-1,UK: BT SPORT 2
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1214
-#EXTINF:-1,UK: BT SPORT 3
-http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/1215
+
+#EXTINF:-1,EN : HD BEIN SPORTS ENGLISH 1 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/38146
+#EXTINF:-1,EN : HD BEIN SPORTS ENGLISH 2 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/38147
+#EXTINF:-1,EN : HD BEIN SPORTS ENGLISH 3 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/38148
+#EXTINF:-1,AR : HD BEIN SPORTS GLOBAL 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/508
+#EXTINF:-1,beIN Sport 1-EN H.265
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295903
+#EXTINF:-1,beIN Sport 1-EN FHD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295904
+#EXTINF:-1,beIN Sport 1-EN HD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295905
+#EXTINF:-1,beIN Sport 2-EN H.265
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295906
+#EXTINF:-1,beIN Sport 2-EN FHD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295907
+#EXTINF:-1,beIN Sport 2-EN HD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295908
+#EXTINF:-1,beIN Sport 3-EN H.265
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295909
+#EXTINF:-1,beIN Sport 3-EN FHD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295910
+#EXTINF:-1,beIN Sport 3-EN HD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295911
+
+#EXTINF:-1,AR : HD BEIN SPORTS PREMUIM 1 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/523
+#EXTINF:-1,AR : HD BEIN SPORTS PREMUIM 2 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/525
+#EXTINF:-1,AR : HD BEIN SPORTS PREMUIM 3 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/527
+#EXTINF:-1,beIN Sport PREMIUM 1 H.265
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295873
+#EXTINF:-1,beIN Sport PREMIUM 1 FHD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295874
+#EXTINF:-1,beIN Sport PREMIUM 1 HD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295875
+#EXTINF:-1,beIN Sport PREMIUM 2 H.265
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295876
+#EXTINF:-1,beIN Sport PREMIUM 2 FHD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295877
+#EXTINF:-1,beIN Sport PREMIUM 2 HD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295878
+#EXTINF:-1,beIN Sport PREMIUM 3 H.265
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295879
+#EXTINF:-1,beIN Sport PREMIUM 3 FHD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295880
+#EXTINF:-1,beIN Sport PREMIUM 3 HD
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/295881
+
+#EXTINF:-1,UK : HD S-K-Y SPORTS FOOTBALL
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146597
+#EXTINF:-1,UK : HD S-K-Y SPORTS MAIN EVENT
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146584
+#EXTINF:-1,UK : HD S-K-Y SPORTS MAIN EVENT 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146585
+#EXTINF:-1,UK : HD S-K-Y SPORTS PREMIER LEAGUE
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146586
+#EXTINF:-1,UK : HD S-K-Y SPORTS PREMIER LEAGUE 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146587
+#EXTINF:-1,UK : HD S-K-Y SPORTS ACTION
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146588
+#EXTINF:-1,UK : HD S-K-Y SPORTS ARENA
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146589
+#EXTINF:-1,UK : HD S-K-Y SPORTS F1
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146594
+#EXTINF:-1,UK : HD S-K-Y SPORTS F1 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146595
+#EXTINF:-1,UK : HD S-K-Y SPORTS F1 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146596
+
+#EXTINF:-1,UK : HD BT SPORT 1
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146602
+#EXTINF:-1,UK : HD BT SPORT 1 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146603
+#EXTINF:-1,UK : HD BT SPORT 2
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146604
+#EXTINF:-1,UK : HD BT SPORT 2 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146605
+#EXTINF:-1,UK : HD BT SPORT 3
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146606
+#EXTINF:-1,UK : HD BT SPORT 3 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146607
+#EXTINF:-1,UK : HD BT SPORT EXTRA
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146608
+#EXTINF:-1,UK: BT SPORT EXTRA 1
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146609
+#EXTINF:-1,UK : HD BT SPORT EXTRA 2
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146610
+#EXTINF:-1,UK : HD BT SPORT EXTRA 3
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146611
+#EXTINF:-1,UK : HD BT SPORT EXTRA 4
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/146612
+
+#EXTINF:-1,SPORT : HD SUPERSPORT FOOTBALL 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/145390
+#EXTINF:-1,SPORT : HD SUPERSPORT PREMIER LEAGUE 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/145391
+#EXTINF:-1,SPORT : HD SUPERSPORT FOOTBALL PLUS 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/145392
+#EXTINF:-1,SPORT : HD SUPERSPORT MOTOSPORT 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/145397
+#EXTINF:-1,SPORT : HD SUPERSPORT EVENTS 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/145398
+#EXTINF:-1,SPORT : HD SUPERSPORT ACTION 
+http://xtra.fireottplus.com:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/145404
+
+
 
 #EXTINF:-1,beIN 1 ENG
 http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/54470.ts
