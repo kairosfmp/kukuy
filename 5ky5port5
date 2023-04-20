@@ -1,31 +1,4 @@
 #EXTM3U
-#EXTINF:-1,US: ESPN
-http://fxorexworld.com:8080/ZNrRXiIxMm/EwSCD4fPIz/925
-#EXTINF:-1,US: ESPN 2
-http://fxorexworld.com:8080/ZNrRXiIxMm/EwSCD4fPIz/926
-#EXTINF:-1,US: ESPN NEWS
-http://fxorexworld.com:8080/ZNrRXiIxMm/EwSCD4fPIz/932
-#EXTINF:-1,US: ESPN U
-http://fxorexworld.com:8080/ZNrRXiIxMm/EwSCD4fPIz/933
-#EXTINF:-1,US: NBA TV
-http://fxorexworld.com:8080/ZNrRXiIxMm/EwSCD4fPIz/961
-
-#EXTINF:-1,UK: BT SPORT 1
-http://fxorexworld.com:8080/ZNrRXiIxMm/EwSCD4fPIz/1213
-#EXTINF:-1,UK: BT SPORT 2
-http://fxorexworld.com:8080/ZNrRXiIxMm/EwSCD4fPIz/1214
-#EXTINF:-1,UK: BT SPORT 3
-http://fxorexworld.com:8080/ZNrRXiIxMm/EwSCD4fPIz/1215
-
-#EXTINF:-1,ZA: SuperSport Action HD
-http://fxorexworld.com:8080/90rww8Xunz/uwr2F3hoOs/684
-#EXTINF:-1,ZA: SuperSport Football HD
-http://fxorexworld.com:8080/90rww8Xunz/uwr2F3hoOs/686
-#EXTINF:-1,ZA: SuperSport LaLiga
-http://fxorexworld.com:8080/90rww8Xunz/uwr2F3hoOs/687
-#EXTINF:-1,ZA: SuperSport Premier League HD
-http://fxorexworld.com:8080/90rww8Xunz/uwr2F3hoOs/690
-
 
 #EXTINF:-1,beIN 1 ENG
 http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/54470.ts
@@ -40,7 +13,39 @@ http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/324
 http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/330
 #EXTINF:-1,Bein Sport HD12 EN
 http://109.202.99.203:8080/D2lWIJoM81/PaemWJL9gE/329
+
 #EXTINF:-1,beIN SPORTS 1 ENGLISH HD
-http://fxorexworld.com:8080/ZNrRXiIxMm/EwSCD4fPIz/69
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/69
 #EXTINF:-1,beIN SPORTS 2 ENGLISH HD
-http://fxorexworld.com:8080/ZNrRXiIxMm/EwSCD4fPIz/70
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/70
+#EXTINF:-1,ZA: SuperSport Premier League HD
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/690
+#EXTINF:-1,ZA: SuperSport Football HD
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/686
+#EXTINF:-1,UK: BT SPORT 1
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/1213
+#EXTINF:-1,UK: BT SPORT 2
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/1214
+#EXTINF:-1,UK: BT SPORT 3
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/1215
+
+#EXTINF:-1,US: ESPN HD
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/920
+#EXTINF:-1,US: ESPN 2
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/921
+#EXTINF:-1,US: ESPN U HD
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/922
+#EXTINF:-1,US: Bein Sport USA
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/923
+#EXTINF:-1,US: beIN Sports Ñ
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/924
+#EXTINF:-1,US: ESPN
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/925
+#EXTINF:-1,US: ESPN 2
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/926
+#EXTINF:-1,US: ESPN NEWS
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/932
+#EXTINF:-1,US: ESPN U
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/933
+#EXTINF:-1,US: NBA TV
+http://fxorexworld.com:8080/lB929WW8aX/5e2GAZvprY/961
