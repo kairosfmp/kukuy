@@ -59,9 +59,8 @@ http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2543
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1047
 #EXTINF:-1,MY: Astro SuperSport 4 NBA
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/157558
-#EXTINF:-1,QA: beIN Sports NBA
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/15962
-
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA League Pass 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ce0e4f02e616c1ac3a6a94b8b322669.png",US: NBA League Pass 1
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/198961
 
 #EXTINF:-1,MY: Astro SuperSport
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/146068
@@ -121,6 +120,8 @@ http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/279033
 #EXTINF:-1,AU: FOX SPORTS 507
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280194
 
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA League Pass 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ce0e4f02e616c1ac3a6a94b8b322669.png" group-title="SLINGTEST",US: NBA League Pass 1
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/198961
 #EXTINF:-1 tvg-id="" tvg-name="DTVUS | NBA_TV" tvg-logo="" group-title="SLINGTEST",DTVUS | NBA_TV
 http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/130901
 #EXTINF:-1 tvg-id="NBA TV (NBA TV) [216]" tvg-name="NBATV" tvg-logo="" group-title="SLINGTEST",NBATV
@@ -154,3 +155,139 @@ http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59335
 http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59337
 #EXTINF:-1 tvg-id="UK: BTSpt//ESPNHD" tvg-name="UK : BT Sports ESPN FHD" tvg-logo="" group-title="SLINGTEST",UK : BT Sports ESPN FHD
 http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59338
+
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA League Pass 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ce0e4f02e616c1ac3a6a94b8b322669.png" group-title="USA ➾ Sports",US: NBA League Pass 1
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/198961
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US: NBA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c7a9e9894c533532f081256e9aeb556c.png" group-title="USA ➾ Sports",US: NBA TV
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/762
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: FS1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/30569238d01ed9c7e8f50b4f61c70865.png" group-title="USA ➾ Sports",US: FS1
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/756
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US: FS2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/856321c9d4796d595d69b69d276520c9.png" group-title="USA ➾ Sports",US: FS2
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/757
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US: Fox Soccer Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/86be3757e8145026fb5299867499ada7.png" group-title="USA ➾ Sports",US: Fox Soccer Plus
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/2314
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 506" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/7d70c1592322e5d4c37473ff49e3c511.png" group-title="USA ➾ Sports",US: FOX SPORTS 506
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/157457
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6f2f3b2279b22736acf606138944bf07.png" group-title="USA ➾ Sports",US: FOX SPORTS Racing
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a53b014f324eb9850b02cefe0b29e68a.png" group-title="USA ➾ Sports",US: ESPN
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/747
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bb7f0a14bf41b0d0cb5a524a7ef46dd6.png" group-title="USA ➾ Sports",US: ESPN 2
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/41918
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg" group-title="USA ➾ Sports",US: ESPN 3
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/14816
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US: ESPN News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/563035a6fbe029b233bb53cdf2d3cbac.png" group-title="USA ➾ Sports",US: ESPN News
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/2312
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US: ESPNU" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15094ba088f2e48b88e81236d6336575.png" group-title="USA ➾ Sports",US: ESPNU
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/2311
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/b6ce2426cc52ca48e337dd2a263ccb21.jpg" group-title="USA ➾ Sports",US: beIN Sports
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/284530
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6129fe72ded1a946884fed4f021411fa.png" group-title="USA ➾ Sports",US: beIN Sports 1
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/2272
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="US: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/968b2561d3ef02a84e6761d4d914db6a.png" group-title="USA ➾ Sports",US: beIN Sports 4
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/151024
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="US: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png" group-title="USA ➾ Sports",US: beIN Sports 5
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/151026
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="US: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/508c7fe8551803cd75658da2876e94c9.png" group-title="USA ➾ Sports",US: beIN Sports 6
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/151030
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="US: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/35bdc00f1836b7669f614ffa005537c1.png" group-title="USA ➾ Sports",US: beIN Sports 7
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/151028
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="US: beIN Sports 8" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0a80bcb2eeb5e23cb9f0404c4b16a745.jfif" group-title="USA ➾ Sports",US: beIN Sports 8
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/151032
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports n" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ac031332317a1f4f3209a4a4aa54df90.png" group-title="USA ➾ Sports",US: beIN Sports n
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/296690
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports USA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/1af633ac21f674213181b644bd010f25.png" group-title="USA ➾ Sports",US: beIN Sports USA
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/296691
+
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="Netherlands ➾ Sports",NL: ESPN
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/267209
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" group-title="Netherlands ➾ Sports",NL: ESPN 2
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/272119
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png" group-title="Netherlands ➾ Sports",NL: ESPN 3
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/272120
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="Netherlands ➾ Sports",NL: ESPN 4
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/272121
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia ➾ Sports",MY: Astro SuperSport
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Malaysia ➾ Sports",MY: Astro SuperSport 2
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/157556
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Malaysia ➾ Sports",MY: Astro SuperSport 3
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/157557
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia ➾ Sports",MY: Astro SuperSport 4
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/157558
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="Malaysia ➾ Sports",MY: Astro SuperSport 5
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/287792
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="South Africa ➾ Sports",ZA: SuperSport Variety 1
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/11633
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="South Africa ➾ Sports",ZA: SuperSport Variety 2
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/11634
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="South Africa ➾ Sports",ZA: SuperSport Variety 3
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/11635
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Variety 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="South Africa ➾ Sports",ZA: SuperSport Variety 4
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/11636
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport world Of Champions" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="South Africa ➾ Sports",ZA: SuperSport world Of Champions
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="South Africa ➾ Sports",ZA: SuperSport Grandstand
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/194353
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="South Africa ➾ Sports",ZA: SuperSport LaLiga
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/194358
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="South Africa ➾ Football",ZA: SuperSport Maximo 1
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/38572
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="South Africa ➾ Sports",ZA: SuperSport Motorsport
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/11638
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="South Africa ➾ Sports",ZA: SuperSport Premier League
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/11642
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport PSL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="South Africa ➾ Sports",ZA: SuperSport PSL
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/11643
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="South Africa ➾ Sports",ZA: SuperSport Football
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/38575
+
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="UK: itv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/84115552985051f281713aeeb4d83d6a.png" group-title="UK ➾ Sports",UK: itv
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/689
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: itv 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8a47c9d5b3b3e5aa1a7df71d17673fb5.png" group-title="UK ➾ Sports",UK: itv 2
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/690
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: itv 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/78be616aa48bd50c9200cb4856cb664f.png" group-title="UK ➾ Sports",UK: itv 3
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/703
+#EXTINF:-1 tvg-id="" tvg-name="UK: itv 3 +1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0d4c3962d58ff91457b86fccbca1c06c.png" group-title="UK ➾ Sports",UK: itv 3 +1
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/145787
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: itv 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/19ce98ef689f2beb0a1e4da62f28db4c.png" group-title="UK ➾ Sports",UK: itv 4
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/691
+#EXTINF:-1 tvg-id="" tvg-name="UK: itv 4 +1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/16ca7e4156e3554810b42dd11ecf2c9f.png" group-title="UK ➾ Sports",UK: itv 4 +1
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/295071
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK: itv BE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0d53543bcc60d5d6f5895146d29e36f6.png" group-title="UK ➾ Sports",UK: itv BE
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/1560
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="UK ➾ Sports",UK: BT Sport 1
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/270
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="UK ➾ Sports",UK: BT Sport 2
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/273
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="UK ➾ Sports",UK: BT Sport 3
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/271
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" group-title="UK ➾ Sports",UK: BT Sport ESPN
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/1124
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d22efc9e80e82953c3f1ee26bb699e5.png" group-title="UK ➾ Kids",UK: Cartoon Network
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/720
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK: Cartoonito" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c8f9b130d1457911891a0999b0b5282a.png" group-title="UK ➾ Kids",UK: Cartoonito
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/1546
+#EXTINF:-1 tvg-id="" tvg-name="UK: CBBC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6221f70a946e65ab046856dea3fb44cf.png" group-title="UK ➾ Kids",UK: CBBC
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/695
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: CBeebies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/705c9936bc50580b1ba85b2c77896bfa.png" group-title="UK ➾ Kids",UK: CBeebies
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/4753
+#EXTINF:-1 tvg-id="" tvg-name="UK: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b81b699ab1552f3c15dea79e34e5f017.png" group-title="UK ➾ Kids",UK: Disney Channel
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/1113
+#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-name="UK: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/609b7a99eeb990acd812fafb408cd606.png" group-title="UK ➾ Kids",UK: Disney Junior
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/1112
+#EXTINF:-1 tvg-id="" tvg-name="UK: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/06a89cbfbaf2158279d67c8a597bb740.png" group-title="UK ➾ Kids",UK: Disney XD
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/1111
+#EXTINF:-1 tvg-id="" tvg-name="MY: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a7cade7a3700c5c7d88753cb096305ae.png" group-title="UK ➾ Kids",MY: Cartoon Network
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/174684
+
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/239223919b68f1ddfee44002f2820718.png" group-title="USA ➾ Kids",US: Disney Channel
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/2303
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="US: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6e7fe7bbed7f932fdfa9399261604.png" group-title="USA ➾ Kids",US: Disney Junior
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/8608
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="US: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04dc42d583bea654a88f87449c173839.png" group-title="USA ➾ Kids",US: Disney XD
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/6395
+
