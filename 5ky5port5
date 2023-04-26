@@ -283,11 +283,21 @@ http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/1112
 http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/1111
 #EXTINF:-1 tvg-id="" tvg-name="MY: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a7cade7a3700c5c7d88753cb096305ae.png" group-title="UK ➾ Kids",MY: Cartoon Network
 http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/174684
+#EXTINF:-1 tvg-id="" tvg-name="MY: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="UK ➾ Kids",MY: Nick Junior
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/157546
 
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/239223919b68f1ddfee44002f2820718.png" group-title="USA ➾ Kids",US: Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="US: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f59bdb00800a6613d70e98de273705dd.png" group-title="UK ➾ Kids",US: Nick Junior
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/14835
+#EXTINF:-1 tvg-id="" tvg-name="US: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/e6d37c2e387c58ce62dffa4b5130a4d4.png" group-title="UK ➾ Kids",US: nickelodeon
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/764
+#EXTINF:-1 tvg-id="" tvg-name="US: NickMusic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e457f2d013cddfe5d2a4952cc6f444ea.png" group-title="UK ➾ Kids",US: NickMusic
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/12982
+#EXTINF:-1 tvg-id="" tvg-name="US: Nicktoons" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9cdeeb7ceac885e82e97d84160d868b7.png" group-title="UK ➾ Kids",US: Nicktoons
+http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/2351
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/239223919b68f1ddfee44002f2820718.png" group-title="UK ➾ Kids",US: Disney Channel
 http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/2303
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="US: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6e7fe7bbed7f932fdfa9399261604.png" group-title="USA ➾ Kids",US: Disney Junior
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="US: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e4f6e7fe7bbed7f932fdfa9399261604.png" group-title="UK ➾ Kids",US: Disney Junior
 http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/8608
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="US: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04dc42d583bea654a88f87449c173839.png" group-title="USA ➾ Kids",US: Disney XD
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="US: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/04dc42d583bea654a88f87449c173839.png" group-title="UK ➾ Kids",US: Disney XD
 http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/6395
 
