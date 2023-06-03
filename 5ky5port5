@@ -209,14 +209,6 @@ http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/11638
 http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/69353
 #EXTINF:-1 tvg-id="ESPN2 (ESPN2) [209]" tvg-name="US: ESPN 2" tvg-logo="http://app.lam18.com/posters/1493789583584.jpg" group-title="Teessttt",US: ESPN 2
 http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/69354
-#EXTINF:-1 tvg-id="UK: BT Sport 1 HD" tvg-name="UK : BT Sports  2 FHD" tvg-logo="" group-title="Teessttt",UK : BT Sports  2 FHD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59336
-#EXTINF:-1 tvg-id="UK: BT Sport 1" tvg-name="UK : BT Sports 1 FHD" tvg-logo="" group-title="Teessttt",UK : BT Sports 1 FHD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59335
-#EXTINF:-1 tvg-id="UK: BT Sport 3" tvg-name="UK : BT Sports 3 FHD" tvg-logo="" group-title="Teessttt",UK : BT Sports 3 FHD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59337
-#EXTINF:-1 tvg-id="UK: BTSpt//ESPNHD" tvg-name="UK : BT Sports ESPN FHD" tvg-logo="" group-title="Teessttt",UK : BT Sports ESPN FHD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59338
 #EXTINF:-1 tvg-id="UK: SkySp PL" tvg-name="UK : SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="Teessttt",UK : SKY SPORTS PREMIER LEAGUE
 http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59317
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Teessttt",ZA: SuperSport Premier League FHD
@@ -225,4 +217,25 @@ http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/71496
 http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/71493
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Teessttt",ZA: SuperSport Football FHD
 http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/71489
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="UK ➾ Sports",UK: BT Sport 1
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/270
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="UK ➾ Sports",UK: BT Sport 2
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/273
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="UK ➾ Sports",UK: BT Sport 3
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/271
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" group-title="UK ➾ Sports",UK: BT Sport ESPN
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/1124
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png" group-title="USA ➾ Movie",US: HBO
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2336
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US: HBO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/79c60a05cd0b554a1c2b465e5004313b.png" group-title="USA ➾ Movie",US: HBO 2
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/5844
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US: HBO Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d006de5f08a0cb1dc56c649758d30c05.png" group-title="USA ➾ Movie",US: HBO Comedy
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2335
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/368ee4e3ee59bbf1668ceca64040668a.png" group-title="USA ➾ Movie",US: HBO Family
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/760
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a667b579cc8303910eeee9faa296efc1.png" group-title="USA ➾ Movie",US: HBO Signature
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/6305
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US: HBO Zone" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fdfd8af1d831741a56868d7643fdc15d.png" group-title="USA ➾ Movie",US: HBO Zone
+http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/6328
 
