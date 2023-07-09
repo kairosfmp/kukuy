@@ -1,298 +1,57 @@
 #EXTM3U
-
-#EXTINF:-1,beIN 1 ENG
-http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/54470.ts
-#EXTINF:-1,beIN 2 ENG
-http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/54469.ts
-#EXTINF:-1,beIN 3 ENG
-http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/54471.ts
-
-#EXTINF:-1,QA: beIN Sports English 1
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/110
-#EXTINF:-1,QA: beIN Sports English 3
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/267769
-
 #EXTINF:-1,beIN SPORTS 1 ENGLISH HD
-http://fxorexworld.com:8080/XTugWQF8TD/ikY4Dol3ew/69
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/69
 #EXTINF:-1,beIN SPORTS 2 ENGLISH HD
-http://fxorexworld.com:8080/XTugWQF8TD/ikY4Dol3ew/70
-#EXTINF:-1,Bein Sport HD11 EN (live event)
-http://109.202.99.203:8080/hMhz5aGCG5/AbVupU2D1V/330
-#EXTINF:-1,Bein Sport HD12 EN (live event)
-http://109.202.99.203:8080/hMhz5aGCG5/AbVupU2D1V/329
-
-#EXTINF:-1,UK: BT Sport 1
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/270
-#EXTINF:-1,UK: BT Sport 2
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/273
-#EXTINF:-1,UK: BT Sport 3
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/271
-#EXTINF:-1,UK: BT Sport ESPN
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1124
-#EXTINF:-1,UK: Sky Sports Premier League
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/263
-#EXTINF:-1,UK: Sky Sports Main Event
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/283053
-#EXTINF:-1,UK: Sky Sports Mix
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/261
-#EXTINF:-1,UK: Sky Sports 
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/266
-#EXTINF:-1,UK: Sky Sports Action
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/268
-#EXTINF:-1,UK: Sky Sports Arena
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/267
-#EXTINF:-1,IT: Sky Sport Moto GP
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/9880
-#EXTINF:-1,IT: Sky Sport Arena
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2541
-#EXTINF:-1,IT: Sky Sport Calcio
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/84505
-#EXTINF:-1,IT: Sky Sport F1
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2542
-#EXTINF:-1,IT: Sky Sport Football
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/2543
-
-#EXTINF:-1,IT: Sky Sport NBA
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1047
-#EXTINF:-1,MY: Astro SuperSport 4 NBA
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/157558
-#EXTINF:-1 tvg-id="" tvg-name="US: NBA League Pass 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ce0e4f02e616c1ac3a6a94b8b322669.png",US: NBA League Pass 1
-http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/198961
-
-#EXTINF:-1,MY: Astro SuperSport
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/146068
-#EXTINF:-1,MY: Astro SuperSport 2
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/157556
-#EXTINF:-1,MY: Astro SuperSport 3
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/157557
-#EXTINF:-1,MY: Astro SuperSport 4
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/157558
-#EXTINF:-1,MY: Astro SuperSport 5
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/287792
-#EXTINF:-1,IN: Sony Ten 1
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16622
-#EXTINF:-1,IN: Sony Ten 2
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16621
-#EXTINF:-1,IN: Sony Ten 3
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/56191
-#EXTINF:-1,IN: Star Sports 1
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3630
-#EXTINF:-1,IN: Star Sports 2
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/3631
-#EXTINF:-1,IN: Star Sports 3
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/62584
-#EXTINF:-1,IN: Star Sports Select 1
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/82628
-#EXTINF:-1,IN: Star Sports Select 2
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/16619
-#EXTINF:-1,ZA: SuperSport Motorsport
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/11638
-#EXTINF:-1,ZA: SuperSport Premier League
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/11642
-#EXTINF:-1,ZA: SuperSport Football
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/38575
-
-#EXTINF:-1,AU: ESPN
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/294449
-#EXTINF:-1,AU: ESPN 2
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/35326
-#EXTINF:-1,AU: beIN Sports 1
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/35347
-#EXTINF:-1,AU: beIN Sports 2
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/35338
-#EXTINF:-1,AU: beIN Sports 3
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/35340
-#EXTINF:-1,AU: FOX SPORTS 501
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/279034
-#EXTINF:-1,AU: FOX SPORTS 502
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/81784
-#EXTINF:-1,AU: FOX SPORTS 503
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280192
-#EXTINF:-1,AU: FOX SPORTS 504
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280193
-#EXTINF:-1,AU: FOX SPORTS 505
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/144772
-#EXTINF:-1,AU: FOX SPORTS 506
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/279033
-#EXTINF:-1,AU: FOX SPORTS 507
-http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/280194
-
-#EXTINF:-1 tvg-id="" tvg-name="US: NBA League Pass 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ce0e4f02e616c1ac3a6a94b8b322669.png" group-title="SLINGTEST",US: NBA League Pass 1
-http://skylogic.site:8080/b12515fa/bJVm4CYLF8qkxyKr/198961
-#EXTINF:-1 tvg-id="" tvg-name="DTVUS | NBA_TV" tvg-logo="" group-title="SLINGTEST",DTVUS | NBA_TV
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/130901
-#EXTINF:-1 tvg-id="NBA TV (NBA TV) [216]" tvg-name="NBATV" tvg-logo="" group-title="SLINGTEST",NBATV
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/111272
-#EXTINF:-1 tvg-id="NBA TV (NBA TV) [216]" tvg-name="US: NBA TV" tvg-logo="http://app.lam18.com/posters/1510188310566.jpg" group-title="SLINGTEST",US: NBA TV
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/69385
-#EXTINF:-1 tvg-id="NBA TV (NBA TV) [216]" tvg-name="NBATV" tvg-logo="http://fanc.tmsimg.com/assets/s45526_ll_h3_ab.png" group-title="SLINGTEST",NBATV
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/57635
-#EXTINF:-1 tvg-id="NBA TV (NBA TV) [216]" tvg-name="US: NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="SLINGTEST",US: NBA TV
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/62308
-
-#EXTINF:-1 tvg-id="UK: SkySp PL" tvg-name="UK : SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="SLINGTEST",UK : SKY SPORTS PREMIER LEAGUE
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59317
-#EXTINF:-1 tvg-id="UK: SkySp Racing" tvg-name="UK : SKY SPORTS RACING" tvg-logo="" group-title="SLINGTEST",UK : SKY SPORTS RACING
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59316
-#EXTINF:-1 tvg-id="UK: SkySpMainEv" tvg-name="UK : Sky Sports Main Event" tvg-logo="" group-title="SLINGTEST",UK : Sky Sports Main Event
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/74047
-#EXTINF:-1 tvg-id="UK: SkySp Mix HD" tvg-name="UK : SKY SPORTS MIX" tvg-logo="" group-title="SLINGTEST",UK : SKY SPORTS MIX
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59319
-#EXTINF:-1 tvg-id="UK: SkySp F1" tvg-name="UK : SKY SPORTS F1" tvg-logo="" group-title="SLINGTEST",UK : SKY SPORTS F1
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59323
-#EXTINF:-1 tvg-id="UK: SkySp Football" tvg-name="UK : SKY SPORTS FOOTBALL" tvg-logo="" group-title="SLINGTEST",UK : SKY SPORTS FOOTBALL
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59322
-#EXTINF:-1 tvg-id="UK: MUTV HD" tvg-name="UK : MUTV" tvg-logo="" group-title="SLINGTEST",UK : MUTV
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59342
-#EXTINF:-1 tvg-id="UK: BT Sport 1 HD" tvg-name="UK : BT Sports  2 FHD" tvg-logo="" group-title="SLINGTEST",UK : BT Sports  2 FHD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59336
-#EXTINF:-1 tvg-id="UK: BT Sport 1" tvg-name="UK : BT Sports 1 FHD" tvg-logo="" group-title="SLINGTEST",UK : BT Sports 1 FHD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59335
-#EXTINF:-1 tvg-id="UK: BT Sport 3" tvg-name="UK : BT Sports 3 FHD" tvg-logo="" group-title="SLINGTEST",UK : BT Sports 3 FHD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59337
-#EXTINF:-1 tvg-id="UK: BTSpt//ESPNHD" tvg-name="UK : BT Sports ESPN FHD" tvg-logo="" group-title="SLINGTEST",UK : BT Sports ESPN FHD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59338
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Teessttt",MY: Astro SuperSport
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Teessttt",MY: Astro SuperSport 2
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Teessttt",MY: Astro SuperSport 3
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Teessttt",MY: Astro SuperSport 4
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/157558
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="Teessttt",MY: Astro SuperSport 5
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/287792
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="Teessttt",MY: beIN Sports
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/157561
-#EXTINF:-1 tvg-id="" tvg-name="US: NBA League Pass 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ce0e4f02e616c1ac3a6a94b8b322669.png" group-title="Teessttt",US: NBA League Pass 1
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/198961
-#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US: NBA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c7a9e9894c533532f081256e9aeb556c.png" group-title="Teessttt",US: NBA TV
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/762
-#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA: NBA TV Canada" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9f57dc2eec9e89af60bcfaa489e81c6f.png" group-title="Teessttt",CA: NBA TV Canada
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/13222
-#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport Moto GP" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/315342075960cced608a1efca076d775.png" group-title="Teessttt",IT: Sky Sport Moto GP
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/9880
-#EXTINF:-1 tvg-id="" tvg-name="IT: Sky Sport NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="Teessttt",IT: Sky Sport NBA
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/1047
-#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/4cefd33fa39d9f718ec85aef91a09896.png" group-title="Teessttt",PT: NBA TV
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/296750
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Vision NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/da43304978d600b414aaef24cd6cd9dc.jfif" group-title="Teessttt",TH: True Vision NBA
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/281638
-#EXTINF:-1 tvg-id="" tvg-name="ZA: NBA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Teessttt",ZA: NBA
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/297426
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="QA: beIN Sports NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9cfea567e2dd21638264fe3a6f0a2275.png" group-title="Teessttt",QA: beIN Sports NBA
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/15962
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA: beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="Teessttt",QA: beIN Sports English 1
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/110
-#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="Teessttt",QA: beIN Sports English 3
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/267769
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="Teessttt",UK: Sky Sports Premier League
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/263
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="Teessttt",UK: Sky Sports Racing
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/163132
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="Teessttt",UK: Sky Sports F1
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/265
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="Teessttt",ZA: SuperSport Premier League
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/11642
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="Teessttt",ZA: SuperSport Football
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/38575
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="Teessttt",ZA: SuperSport LaLiga
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/194358
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="Teessttt",ZA: SuperSport Maximo 1
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/38572
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="Teessttt",ZA: SuperSport Motorsport
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/11638
-
-#EXTINF:-1 tvg-id="ESPN (ESPN) [206]" tvg-name="US: ESPN 1" tvg-logo="http://app.lam18.com/posters/1502835749481.jpg" group-title="Teessttt",US: ESPN 1
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/69353
-#EXTINF:-1 tvg-id="ESPN2 (ESPN2) [209]" tvg-name="US: ESPN 2" tvg-logo="http://app.lam18.com/posters/1493789583584.jpg" group-title="Teessttt",US: ESPN 2
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/69354
-#EXTINF:-1 tvg-id="UK: SkySp PL" tvg-name="UK : SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="Teessttt",UK : SKY SPORTS PREMIER LEAGUE
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/59317
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Teessttt",ZA: SuperSport Premier League FHD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/71496
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Maximo 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Teessttt",ZA: SuperSport Maximo 1 HD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/71493
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Teessttt",ZA: SuperSport Football FHD
-http://orbyt.xyz:8080/cardano_discord/H2BJsVG7nznz/71489
-
-
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: BT Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="UK ➾ Sports",UK: BT Sport 1
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/270
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="UK ➾ Sports",UK: BT Sport 2
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/273
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="UK ➾ Sports",UK: BT Sport 3
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/271
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" group-title="UK ➾ Sports",UK: BT Sport ESPN
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/1124
-
-#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="UK: itv" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/84115552985051f281713aeeb4d83d6a.png" group-title="UK ➾ LifeStyle",UK: itv
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/689
-#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: itv 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8a47c9d5b3b3e5aa1a7df71d17673fb5.png" group-title="UK ➾ LifeStyle",UK: itv 2
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/690
-#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: itv 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/78be616aa48bd50c9200cb4856cb664f.png" group-title="UK ➾ LifeStyle",UK: itv 3
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/703
-#EXTINF:-1 tvg-id="" tvg-name="UK: itv 3 +1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0d4c3962d58ff91457b86fccbca1c06c.png" group-title="UK ➾ LifeStyle",UK: itv 3 +1
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/145787
-#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: itv 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/19ce98ef689f2beb0a1e4da62f28db4c.png" group-title="UK ➾ LifeStyle",UK: itv 4
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/691
-#EXTINF:-1 tvg-id="" tvg-name="UK: itv 4 +1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/16ca7e4156e3554810b42dd11ecf2c9f.png" group-title="UK ➾ LifeStyle",UK: itv 4 +1
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/295071
-#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK: itv BE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0d53543bcc60d5d6f5895146d29e36f6.png" group-title="UK ➾ LifeStyle",UK: itv BE
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/1560
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/01624dbf5b113c4b044aa7bb9e7104f1.png" group-title="India",IN: Sony Max
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/1359
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d4975f023a98c9cebea516a4fd98482c.png" group-title="India",IN: Sony Max 2
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/4862
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max India" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/204aab77089639f2bc393838adfd5580.png" group-title="India",IN: Sony Max India
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/63397
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/272f1039b592ab8ee695cda162daafe0.png" group-title="India",IN: Sony Pal
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/193645
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pix" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4e7fba8288cf6f11b5d2027eb642d3c3.png" group-title="India",IN: Sony Pix
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/49539
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="India",IN: Sony SAB
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/1073
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="India",IN: Sony Ten 1
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/16622
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="India",IN: Sony Ten 2
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/16621
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="India",IN: Sony Ten 3
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/56191
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="India",IN: Star Sports 1
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/3630
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="India",IN: Star Sports 2
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/3631
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="India",IN: Star Sports 3
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/62584
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/32dd229ae9dd6bb71e041ba5545ca2b9.jpg" group-title="India",IN: Star Sports Select 1
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/82628
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/90d4a692460906d2af537d261d1ac3a1.jpg" group-title="India",IN: Star Sports Select 2
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/16619
-
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a53b014f324eb9850b02cefe0b29e68a.png" group-title="USA",US: ESPN
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/747
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/bb7f0a14bf41b0d0cb5a524a7ef46dd6.png" group-title="USA",US: ESPN 2
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/41918
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0fffb31df9ca2245144bf1fb772b641d.jpg" group-title="USA",US: ESPN 3
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/14816
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US: ESPN News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/563035a6fbe029b233bb53cdf2d3cbac.png" group-title="USA",US: ESPN News
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2312
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="US: ESPNU" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15094ba088f2e48b88e81236d6336575.png" group-title="USA",US: ESPNU
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2311
-
-#EXTINF:-1 tvg-id="hbo.us" tvg-name="US: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/e88f2f1db154d1e7555f9cbd99f38fcc.png" group-title="USA",US: HBO
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2336
-#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US: HBO 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/79c60a05cd0b554a1c2b465e5004313b.png" group-title="USA",US: HBO 2
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/5844
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US: HBO Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d006de5f08a0cb1dc56c649758d30c05.png" group-title="USA",US: HBO Comedy
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/2335
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/368ee4e3ee59bbf1668ceca64040668a.png" group-title="USA",US: HBO Family
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/760
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a667b579cc8303910eeee9faa296efc1.png" group-title="USA",US: HBO Signature
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/6305
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US: HBO Zone" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fdfd8af1d831741a56868d7643fdc15d.png" group-title="USA",US: HBO Zone
-http://gamsgo.cyou:8080/iptvturk/ee1aafb3d9/6328
-
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/70
+#EXTINF:-1,US: TSN 1
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/915
+#EXTINF:-1,US:  TSN 2
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/916
+#EXTINF:-1,US: TSN 3
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/917
+#EXTINF:-1,US: TSN 4
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/918
+#EXTINF:-1,US: TSN 5
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/919
+#EXTINF:-1,US: ESPN HD
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/920
+#EXTINF:-1,US: ESPN 2
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/921
+#EXTINF:-1,US: ESPN U HD
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/922
+#EXTINF:-1,US: Bein Sport USA
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/923
+#EXTINF:-1,US: beIN Sports Ñ
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/924
+#EXTINF:-1,US: ESPN
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/925
+#EXTINF:-1,US: ESPN 2
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/926
+#EXTINF:-1,US: ESPN NEWS
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/932
+#EXTINF:-1,US: ESPN U
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/933
+#EXTINF:-1,UK: BT SPORT 1
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/1213
+#EXTINF:-1,UK: BT SPORT 2
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/1214
+#EXTINF:-1,UK: BT SPORT 3
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/1215
+#EXTINF:-1,ZA: SuperSport Action HD
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/684
+#EXTINF:-1,ZA: SuperSport Cricket HD
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/685
+#EXTINF:-1,ZA: SuperSport Football HD
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/686
+#EXTINF:-1,ZA: SuperSport LaLiga
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/687
+#EXTINF:-1,ZA: SuperSport Golf FHD
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/688
+#EXTINF:-1,ZA: SuperSport Grandstand FHD
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/689
+#EXTINF:-1,ZA: SuperSport Premier League HD
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/690
+#EXTINF:-1,ZA: SuperSport PSL HD
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/691
+#EXTINF:-1,ZA: SuperSport Variety 3 HD
+http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/693
