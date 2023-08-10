@@ -1,60 +1,32 @@
 #EXTM3U
-#EXTINF:-1,beIN SPORTS 1 ENGLISH HD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/69
-#EXTINF:-1,beIN SPORTS 2 ENGLISH HD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/70
-#EXTINF:-1,US: TSN 1
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/915
-#EXTINF:-1,US:  TSN 2
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/916
-#EXTINF:-1,US: TSN 3
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/917
-#EXTINF:-1,US: TSN 4
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/918
-#EXTINF:-1,US: TSN 5
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/919
-#EXTINF:-1,US: ESPN HD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/920
-#EXTINF:-1,US: ESPN 2
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/921
-#EXTINF:-1,US: ESPN U HD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/922
-#EXTINF:-1,US: Bein Sport USA
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/923
-#EXTINF:-1,US: beIN Sports Ñ
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/924
-#EXTINF:-1,US: ESPN
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/925
-#EXTINF:-1,US: ESPN 2
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/926
-#EXTINF:-1,US: ESPN NEWS
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/932
-#EXTINF:-1,US: ESPN U
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/933
-#EXTINF:-1,UK: BT SPORT 1
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/1213
-#EXTINF:-1,UK: BT SPORT 2
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/1214
-#EXTINF:-1,UK: BT SPORT 3
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/1215
-#EXTINF:-1,ZA: SuperSport Action HD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/684
-#EXTINF:-1,ZA: SuperSport Cricket HD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/685
-#EXTINF:-1,ZA: SuperSport Football HD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/686
-#EXTINF:-1,ZA: SuperSport LaLiga
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/687
-#EXTINF:-1,ZA: SuperSport Golf FHD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/688
-#EXTINF:-1,ZA: SuperSport Grandstand FHD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/689
-#EXTINF:-1,ZA: SuperSport Premier League HD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/690
-#EXTINF:-1,ZA: SuperSport PSL HD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/691
-#EXTINF:-1,ZA: SuperSport Variety 3 HD
-http://minafire.com:8080/BonIzCKME7/zPHE7oQejS/693
+#EXTINF:-1,beIN 1 ENG
+http://server.sibfungold.info:8080/live/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54470.ts
+#EXTINF:-1,beIN 2 ENG
+http://server.sibfungold.info:8080/live/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54469.ts
+#EXTINF:-1,beIN 3 ENG
+http://server.sibfungold.info:8080/live/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54471.ts
+#EXTINF:-1,beIN nba
+http://server.sibfungold.info:8080/live/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49691.ts
+
+#EXTINF:-1,beIN 1 ENG
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54470.ts
+#EXTINF:-1,beIN 2 ENG
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54469.ts
+#EXTINF:-1,beIN 3 ENG
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54471.ts
+#EXTINF:-1,beIN 1 xtra
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/10.ts
+#EXTINF:-1,beIN 2 xtra
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/53670.ts
+#EXTINF:-1,beIN 1 pre HD
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/9.ts
+#EXTINF:-1,beIN 2 pre FULHD
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/51018.ts
+#EXTINF:-1,beIN 3 pre HD
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/11.ts
+#EXTINF:-1,beIN nba
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/49691.ts
+
 
 #EXTINF:-1,MY: Astro SuperSport
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/146068
