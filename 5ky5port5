@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:-1,beIN 1 ENG
-http://server.sibfungold.info:8080/live/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54470.ts
-#EXTINF:-1,beIN 2 ENG
-http://server.sibfungold.info:8080/live/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54469.ts
-#EXTINF:-1,beIN 3 ENG
-http://server.sibfungold.info:8080/live/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54471.ts
-#EXTINF:-1,beIN nba
-http://server.sibfungold.info:8080/live/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49691.ts
-
-#EXTINF:-1,beIN 1 ENG
-http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54470.ts
-#EXTINF:-1,beIN 2 ENG
-http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54469.ts
-#EXTINF:-1,beIN 3 ENG
-http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54471.ts
-#EXTINF:-1,beIN 1 xtra
-http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/10.ts
-#EXTINF:-1,beIN 2 xtra
-http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/53670.ts
-#EXTINF:-1,beIN 1 pre HD
-http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/9.ts
-#EXTINF:-1,beIN 2 pre FULHD
-http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/51018.ts
-#EXTINF:-1,beIN 3 pre HD
-http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/11.ts
-#EXTINF:-1,beIN nba
-http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/49691.ts
-
 
 #EXTINF:-1,MY: Astro SuperSport
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/146068
@@ -213,6 +185,59 @@ http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/102714.ts
 #EXTINF:-1,|.ZA.| SUPER SPORT 7 FHD
 http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/102715.ts
 #EXTINF:-1,|.ZA.| SUPER SPORT 8 FHD
+
+#EXTINF:-1,||AR.BEIN|| BEIN SPORTS 1 ENGLISH HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20441
+#EXTINF:-1,DE: Sky Sport Premier League HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27511
+#EXTINF:-1,DE: Sky Sport Premier League FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27512
+#EXTINF:-1,DSTV: SuperSport LaLiga HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/17250
+#EXTINF:-1,DSTV: SuperSport Football
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/17119
+#EXTINF:-1,DSTV: SuperSport FootBall FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/17117
+#EXTINF:-1,DSTV: SuperSport Premier League FHD 
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/17123
+#EXTINF:-1,DSTV: SuperSport Motorsport
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/17109
+#EXTINF:-1,DSTV: SuperSport Motorsports HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/17251
+#EXTINF:-1,DSTV: ESPN
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27679
+#EXTINF:-1,DSTV: ESPN 2
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27680
+#EXTINF:-1,BT Sport 1
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20541
+#EXTINF:-1,BT Sport 2
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20542
+#EXTINF:-1,BT Sport 3
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20543
+#EXTINF:-1,BT Sport ESPN
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20544
+#EXTINF:-1,BT Sport ESPN FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20545
+#EXTINF:-1,BT Sports 1 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20546
+#EXTINF:-1,BT Sports 2 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20547
+#EXTINF:-1,BT Sports 3 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20548
+#EXTINF:-1,Bt Sports ESPN HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20549
+#EXTINF:-1,sky sports arena HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20699
+#EXTINF:-1,sky sports f1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20701
+#EXTINF:-1,sky sports football HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20702
+#EXTINF:-1,sky sports main event HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20704
+#EXTINF:-1,sky sports premier league HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20707
+
+
 http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/102716.ts
 #EXTINF:-1,|.ZA.| SUPER SPORT 9 FHD
 http://pro.xviptv.com:25443/live/HAJG6/k7bKPqg05y/102717.ts
