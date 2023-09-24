@@ -68,6 +68,13 @@ http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198688
 #EXTINF:-1,beIN Sports English 3
 http://servi-teevee.net:80/MerCreStreAMtESt636273FFFJ/Gf5hG55Ds3/1198689
 
+#EXTINF:-1,beIN 1 ENG
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54470.ts
+#EXTINF:-1,beIN 2 ENG
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54469.ts
+#EXTINF:-1,beIN 3 ENG
+http://server.sibfungold.info:8080/live/tverdnic2006/5KdVRcHHrH/54471.ts
+
 #EXTINF:-1,MY: Astro SuperSport
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/146068
 #EXTINF:-1,MY: Astro SuperSport 2
