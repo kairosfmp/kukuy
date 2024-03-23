@@ -5,6 +5,14 @@ http://proiptv.tn:1234/mfb-anis/46ztpmbdjFeM2ggg/377
 http://proiptv.tn:1234/mfb-anis/46ztpmbdjFeM2ggg/378
 #EXTINF:-1,UK_BT.Sport.3.HD
 http://proiptv.tn:1234/mfb-anis/46ztpmbdjFeM2ggg/379
+#EXTINF:-1,beIN.English.1.FHD
+http://proiptv.tn:1234/mfb-anis/46ztpmbdjFeM2ggg/491
+#EXTINF:-1,beIN.English.1.SD
+http://proiptv.tn:1234/mfb-anis/46ztpmbdjFeM2ggg/569
+#EXTINF:-1,beIN.English.2.FHD
+http://proiptv.tn:1234/mfb-anis/46ztpmbdjFeM2ggg/495
+#EXTINF:-1,beIN.English.2.SD
+http://proiptv.tn:1234/mfb-anis/46ztpmbdjFeM2ggg/591
 
 #EXTINF:-1,ESPN FHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/210
