@@ -1,4 +1,38 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="EU | UK SPORT",UK| SKY SPORTS PREMIER LEAGUE HD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/191686
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://lo1.in/uk/skyspplg.png" group-title="EU | UK SPORT",UK| SKY SPORTS PREMIER LEAGUE FHD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/153693
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="UK| ASTRO SUPERSPORT 1 HD" tvg-logo="https://lo1.in/uk/astssp1.png" group-title="EU | UK SPORT",UK| ASTRO SUPERSPORT 1 HD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/153953
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="UK| ASTRO SUPERSPORT 2 HD" tvg-logo="https://lo1.in/uk/astssp2.png" group-title="EU | UK SPORT",UK| ASTRO SUPERSPORT 2 HD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/153952
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="UK| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/uk/astssp3.png" group-title="EU | UK SPORT",UK| ASTRO SUPERSPORT 3 HD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/153951
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="UK| ASTRO SUPERSPORT 4 HD" tvg-logo="https://lo1.in/uk/astssp4.png" group-title="EU | UK SPORT",UK| ASTRO SUPERSPORT 4 HD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/153950
+#EXTINF:-1 tvg-id="" tvg-name="ZA| SUPERSPORT PREMIER LEAGUE FHD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="EU | UK SPORT",ZA| SUPERSPORT PREMIER LEAGUE FHD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/190004
+#EXTINF:-1 tvg-id="" tvg-name="ZA| SUPERSPORT FOOTBALL HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="EU | UK SPORT",ZA| SUPERSPORT FOOTBALL HD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/190006
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR| NBA TV FHD" tvg-logo="https://lo1.in/trk/nba.png" group-title="EU | TURK SPOR",TR| NBA TV FHD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/191523
+#EXTINF:-1 tvg-id="" tvg-name="TR| NBA TV HD" tvg-logo="https://lo1.in/trk/nba.png" group-title="EU | TURK SPOR",TR| NBA TV HD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/34657
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US| NBA TV FHD" tvg-logo="https://lo1.in/us/nbat.png" group-title="AM | USA SPORTS ",US| NBA TV FHD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/181377
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US| NBA TV HD" tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA SPORTS ",US| NBA TV HD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/378819
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦USA| NBA LEAUGE PASS ✦●✦" tvg-logo="https://lo1.in/us/flg.png" group-title="AM | USA NBA",✦●✦USA| NBA LEAUGE PASS ✦●✦
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/400163561
+#EXTINF:-1 tvg-id="" tvg-name="US| NBA TV  FHD" tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA NBA",US| NBA TV  FHD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/378820
+#EXTINF:-1 tvg-id="" tvg-name="US| NBA LIVE HD" tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA NBA",US| NBA LIVE HD
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/82257
+#EXTINF:-1 tvg-id="" tvg-name="US| NBA LIVE" tvg-logo="https://lo1.in/us/nba.png" group-title="AM | USA NBA",US| NBA LIVE
+http://guvfwwp.mexamo.xyz:80/3158600252/3739128775/82256
+
+
 #EXTINF:-1,UK_BT.Sport.1.HD
 http://proiptv.tn:1234/mfb-anis/46ztpmbdjFeM2ggg/377
 #EXTINF:-1,UK_BT.Sport.2.HD
